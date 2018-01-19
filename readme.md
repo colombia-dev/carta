@@ -149,3 +149,4 @@ Nos reunimos y organizamos para proveer una posición independiente y libre de a
 - Alejandro Cadavid López - [@acadavid](https://twitter.com/acadavid)
 - Yeison Daza - [@yeion7](https://twitter.com/yeion7)
 - Steven Augusto Villegas Castellanos - [@stifflerbassman](https://twitter.com/stifflerbassman)
+- David Andres Roncancio Joya - [@kuryaki](https://twitter.com/kuryaki)
