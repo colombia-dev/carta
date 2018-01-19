@@ -187,3 +187,4 @@ Nos reunimos y organizamos para proveer una posición independiente y libre de a
 - Daniel Sánchez Tello - [@Daniel_Santello](https://twitter.com/daniel_santello)
 - Julian Duque - [@julian_duque](https://twitter.com/julian_duque)
 - Juan Carlos Ruiz - [@JuanKRuiz](https://twitter.com/JuanKRuiz)
+- Diego Soto - [@DiegoSoto](https://twitter.com/DiegoSoto)
