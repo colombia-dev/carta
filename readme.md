@@ -234,3 +234,4 @@ Nos reunimos y organizamos para proveer una posición independiente y libre de a
 - Jorge Andrés González Cetina - [@jag2kn](https://github.com/jag2kn)
 - John Alexander Torres - [@alexmtbiker](https://twitter.com/alexmtbiker)
 - Fabian Diaz - [@otraarroba](https://twitter.com/otraarroba)
+- Luis Hurtado - [@kommitter](https://twitter.com/kommitter)
