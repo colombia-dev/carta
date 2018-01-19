@@ -242,4 +242,5 @@ Nos reunimos y organizamos para proveer una posición independiente y libre de a
 - Lennin Suescun Devia - [@Lenninlasd](https://twitter.com/LenninLsd)
 - Jose Gabriel guzman lopez - [@joseGabriel06](https://github.com/joseGabriel06)
 - Juan David Echeverry Rivera - [@juandav](https://github.com/juandav)
+- Jose Rafael Arrieta Dominguez - [@JoseArrieta_82] (https://github.com/rafodelmal)
 - Luis Alfredo Porras Páez - [@lporras](https://github.com/lporras)
