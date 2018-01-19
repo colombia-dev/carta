@@ -174,7 +174,7 @@ Nos reunimos y organizamos para proveer una posición independiente y libre de a
 - Alejandro Next - [@alejonext](http://github.com/alejonext/)
 - Alejandro Ramírez - [@soyalejoramirez](https://twitter.com/soyalejoramirez)
 - Mario Daniel Ruiz Saavedra - [@desiderantes](https://twitter.com/desiderantes)
-- Juan Pablo Romero Bernal - [@juanblo](https://twitter.com/juanblo) 
+- Juan Pablo Romero Bernal - [@juanblo](https://twitter.com/juanblo)
 - Rubén Darío Avila Home - [@rubenavilah](https://twitter.com/rubenavilah)
 - Claudia Lagos Ruiz - [@ClaudiaLagosR](https://twitter.com/ClaudiaLagosR)
 - John Fredy Baquero Celis - [@noverflow](https://twitter.com/noverflow)
@@ -243,3 +243,4 @@ Nos reunimos y organizamos para proveer una posición independiente y libre de a
 - Jose Gabriel guzman lopez - [@joseGabriel06](https://github.com/joseGabriel06)
 - Juan David Echeverry Rivera - [@juandav](https://github.com/juandav)
 - Jose Rafael Arrieta Dominguez - [@JoseArrieta_82] (https://github.com/rafodelmal)
+- Luis Alfredo Porras Páez - [@lporras](https://github.com/lporras)
