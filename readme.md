@@ -136,3 +136,4 @@ Nos reunimos y organizamos para proveer una posición independiente y libre de a
 - Hamilton Alvarez Mejia - @mejialvarez
 - Ernesto Nobmann Chávez - @nobmann88
 - Camilo Aguilar Ramírez - @c4milo
+- Juan Gabriel Gutierrez - @llanoxco
