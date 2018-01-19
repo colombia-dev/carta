@@ -178,3 +178,4 @@ Nos reunimos y organizamos para proveer una posición independiente y libre de a
 - Juan David Maldonado - [@jdmaldonado06](https://twitter.com/jdmaldonado06)
 - Johana S. Rodriguez - [@Joha0](https://github.com/joha0)
 - Marian Villa - [@marianvilla](https://twitter.com/Marianvilla)
+- Jahir Fabian Fiquitiva Ricaurte - [@jahirfiquitiva](https://twitter.com/jahirfiquitiva)
