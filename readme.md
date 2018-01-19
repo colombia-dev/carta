@@ -221,3 +221,4 @@ Nos reunimos y organizamos para proveer una posición independiente y libre de a
 - Hugo Zapata - [@hugozap](https://twitter.com/hugozap)
 - Laura Alejandra Ortiz Martínez - [@lauspadafora](https://twitter.com/lauspadafora)
 - Cristiam Arley Díaz Silva - [@cdiaz](https://github.com/cdiaz)
+- Jose Aponte - [@kakashy](https://twitter.com/kakashy)
