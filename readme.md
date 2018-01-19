@@ -164,6 +164,7 @@ Nos reunimos y organizamos para proveer una posición independiente y libre de a
 - Julian Betancourt - [@juliian41](https://twitter.com/juliian41)
 - Andrey Ruíz Hincapié - [@davkorss](https://twitter.com/davkorss)
 - Gustavo Andrés Angulo - [@woakas](https://twitter.com/woakas)
+- Juan David henao - [@jhenaoz93](https://twitter.com/jhenaoz93)
 - Juan Mateo Velilla Ospina - [@r3v3r5ing](https://twitter.com/r3v3r5ing)
 - Juan David Sánchez - [@d4vsanchez](https://twitter.com/d4vsanchez)
 - César Suárez T. [@cesarlarsson](https://twitter.com/cesarlarsson)
