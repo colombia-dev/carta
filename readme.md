@@ -163,3 +163,4 @@ Nos reunimos y organizamos para proveer una posición independiente y libre de a
 - Julian Betancourt - [@juliian41](https://twitter.com/juliian41)
 - Andrey Ruíz Hincapié - [@davkorss](https://twitter.com/davkorss)
 - Gustavo Andrés Angulo - [@woakas](https://twitter.com/woakas)
+- Alejandro Next - [@alejonext](http://github.com/alejonext/)
