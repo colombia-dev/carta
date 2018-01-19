@@ -149,6 +149,7 @@ Nos reunimos y organizamos para proveer una posición independiente y libre de a
 - Hildebrando Rueda Quintero - [@theharq](https://twitter.com/theharq)
 - Alejandro Cadavid López - [@acadavid](https://twitter.com/acadavid)
 - Yeison Daza - [@yeion7](https://twitter.com/yeion7)
+- Carlos Suarez - [@icarlossz](https://twitter.com/icarlossz)
 - Steven Augusto Villegas Castellanos - [@stifflerbassman](https://twitter.com/stifflerbassman)
 - David Andres Roncancio Joya - [@kuryaki](https://twitter.com/kuryaki)
 - Oscar Rendon - [@orendon](https://twitter.com/orendon)
@@ -186,5 +187,7 @@ Nos reunimos y organizamos para proveer una posición independiente y libre de a
 - Steven Rafael Gonzalez Machado - [@srgm86](https://twitter.com/srgm86)
 - Daniel Sánchez Tello - [@Daniel_Santello](https://twitter.com/daniel_santello)
 - Julian Duque - [@julian_duque](https://twitter.com/julian_duque)
+- Daniel Estrada Aristizábal
 - Juan Carlos Ruiz - [@JuanKRuiz](https://twitter.com/JuanKRuiz)
 - Carlos I Mercado - [@civanmercado](https://twitter.com/civanmercado)
+- Gabriel Garnica - [@antiadherente](https://twitter.com/antiadherente)
