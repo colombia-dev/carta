@@ -1,4 +1,4 @@
-﻿# Carta Abierta al DANE
+# Carta Abierta al DANE
 
 Colombia, 19 de Enero de 2018
 
@@ -49,10 +49,10 @@ De nada sirve que se tengan puertas con el blindaje de mayor nivel del mundo, **
 
 5. Nos sumamos al cuestionamiento iniciado por Juliana, y como ciudadanos esperamos que el software producido con recursos públicos con fines de recaudar información personal de ciudadanos colombianos sea de la más alta calidad.
 6. Basados en los puntos anteriores, recomendamos que el DANE realice una evaluación profesional e independiente de la siguiente manera:
-  1. Se evalúe la implementación de cifrado tanto en la aplicación de escritorio y la web según las recomendaciones de la [OWASP](https://www.owasp.org/index.php/About_The_Open_Web_Application_Security_Project).
-  2. Se realicen pruebas de penetración en todos los sistemas de recolección o almacenamiento de información personal de acuerdo a las recomendaciones de la OWASP. [https://www.owasp.org/index.php/Testing_Guide_Introduction#Penetration_Testing](https://www.owasp.org/index.php/Testing_Guide_Introduction#Penetration_Testing)
-  3. Se implementen todas las recomendaciones consideradas críticas.
-  4. Se publique un reporte con los hallazgos de la evaluación y correcciones, respaldado por la firma evaluadora y de manera pública.
+   1. Se evalúe la implementación de cifrado tanto en la aplicación de escritorio y la web según las recomendaciones de la [OWASP](https://www.owasp.org/index.php/About_The_Open_Web_Application_Security_Project).
+   2. Se realicen pruebas de penetración en todos los sistemas de recolección o almacenamiento de información personal de acuerdo a las recomendaciones de la OWASP. [https://www.owasp.org/index.php/Testing_Guide_Introduction#Penetration_Testing](https://www.owasp.org/index.php/Testing_Guide_Introduction#Penetration_Testing)
+   3. Se implementen todas las recomendaciones consideradas críticas.
+   4. Se publique un reporte con los hallazgos de la evaluación y correcciones, respaldado por la firma evaluadora y de manera pública.
 
 
 Nos reunimos y organizamos para proveer una posición independiente y libre de afiliaciones políticas, con el fin de hacer un llamado a prevenir desastres informáticos que causen perdida en la confianza de soluciones innovadoras en nuestro país.
@@ -91,7 +91,7 @@ Nos reunimos y organizamos para proveer una posición independiente y libre de a
 - Juliana Gomez
 - Johny Alexander Varela Osorio
 - Daniel Felicita
-- David Guzman
+- Hernan Guzman - [@hernandgr](https://twitter.com/hernandgr)
 - Cristian Camilo Moreno Zuluaga - [@khriztianmoreno](https://twitter.com/khriztianmoreno)
 - Andres Felipe Cardona Castro
 - Daniel Felipe Marulanda - [@Dfmarulanda](https://twitter.com/Dfmarulanda)
@@ -112,7 +112,7 @@ Nos reunimos y organizamos para proveer una posición independiente y libre de a
 - Yeiner Fernández Bustos - [@yeinerf](https://twitter.com/yeinerf)
 - Elba Patricia Sánchez Márquez - [@ElbaSanchezM](https://twitter.com/ElbaSanchezM)
 - Jose Miguel García García - [@pingoz](https://twitter.com/pingoz)
-- Juan Sebastian Velez
+- Juan Sebastian Velez [@jvelezpo](https://twitter.com/jvelezpo)
 - Juan Felipe Bedoya Cardona - [@jfelipebc](https://twitter.com/jfelipebc)
 - Manuel Fernando Sabogal Ocampo - [@ItsEdoren](https://twitter.com/ItsEdoren)
 - Francisco Arley López Espinosa
@@ -149,13 +149,15 @@ Nos reunimos y organizamos para proveer una posición independiente y libre de a
 - Hildebrando Rueda Quintero - [@theharq](https://twitter.com/theharq)
 - Alejandro Cadavid López - [@acadavid](https://twitter.com/acadavid)
 - Yeison Daza - [@yeion7](https://twitter.com/yeion7)
+- Carlos Suarez - [@icarlossz](https://twitter.com/icarlossz)
 - Steven Augusto Villegas Castellanos - [@stifflerbassman](https://twitter.com/stifflerbassman)
 - David Andres Roncancio Joya - [@kuryaki](https://twitter.com/kuryaki)
 - Oscar Rendon - [@orendon](https://twitter.com/orendon)
+- Erick Torres - [@papabarbas](https://twitter.com/papabarbas)
 - Pablo Vallejo - [@PabloVallejo_](https://twitter.com/PabloVallejo_)
 - Juan Pablo Valencia Gómez - [@jpvg10](https://twitter.com/jpvg10)
 - Adrian Estrada - [@edsadr](https://twitter.com/edsadr)Addi
-- Alejo Yarce - [@AlejooYarce](https://twitter.com/AlejooYarce)
+-- Alejo Yarce - [@AlejooYarce](https://twitter.com/AlejooYarce)
 - Fredy E Mena Andrade - [@xfry](https://twitter.com/xfry)
 - Juan David Gómez - [@judavi](https://twitter.com/judavi)
 - Adrian Estrada - [@edsadr](https://twitter.com/edsadr)
@@ -172,3 +174,74 @@ Nos reunimos y organizamos para proveer una posición independiente y libre de a
 - Alejandro Next - [@alejonext](http://github.com/alejonext/)
 - Alejandro Ramírez - [@soyalejoramirez](https://twitter.com/soyalejoramirez)
 - Julian Camilo Vega - [@f14c0](https://twitter.com/f14c0)
+- Mario Daniel Ruiz Saavedra - [@desiderantes](https://twitter.com/desiderantes)
+- Juan Pablo Romero Bernal - [@juanblo](https://twitter.com/juanblo)
+- Rubén Darío Avila Home - [@rubenavilah](https://twitter.com/rubenavilah)
+- Claudia Lagos Ruiz - [@ClaudiaLagosR](https://twitter.com/ClaudiaLagosR)
+- John Fredy Baquero Celis - [@noverflow](https://twitter.com/noverflow)
+- Ramiro Andrés Bedoya - [@imramiro](https://twitter.com/imramiro)
+- Juan David Maldonado - [@jdmaldonado06](https://twitter.com/jdmaldonado06)
+- Johana S. Rodriguez - [@Joha0](https://github.com/joha0)
+- Marian Villa - [@marianvilla](https://twitter.com/Marianvilla)
+- Alonso Montenegro [@alonsoenrique](https://github.com/alonsoenrique/)
+- Jahir Fabian Fiquitiva Ricaurte - [@jahirfiquitiva](https://twitter.com/jahirfiquitiva)
+- Byron Herrera - [@silenceway](https://twitter.com/silenceway)
+- Neider Tapia Avila - [@nrtapia](https://twitter.com/nrtapia)
+- Andres Zapata Cano - [@andfelzapata](https://twitter.com/andfelzapata)
+- Steven Rafael Gonzalez Machado - [@srgm86](https://twitter.com/srgm86)
+- Daniel Sánchez Tello - [@Daniel_Santello](https://twitter.com/daniel_santello)
+- Julian Duque - [@julian_duque](https://twitter.com/julian_duque)
+- Hector Sanchez - [@hsanchezg](https://twitter.com/hsanchezg)
+- Andres Aristizabal Guerrero - [aaristiz1](https://twitter.com/aaristiz1)
+- Julian David Vargas Alvarez - [@app_config](https://twitter.com/app_config)
+- Omar Duque - [@omar_duque](https://twitter.com/omar_duque)
+- Daniel Estrada Aristizábal
+- Juan Carlos Ruiz - [@JuanKRuiz](https://twitter.com/JuanKRuiz)
+- Pedro Iván Piza Rodríguez - [@Pedro92Ivan](https://twitter.com/Pedro92Ivan)
+- Andres Serrano - [@andressrg](https://twitter.com/andressrg)
+- Carlos I Mercado - [@civanmercado](https://twitter.com/civanmercado)
+- Diego Soto - [@DiegoSoto](https://twitter.com/DiegoSoto)
+- Gabriel Garnica - [@antiadherente](https://twitter.com/antiadherente)
+- Hernan Camilo Gomez R - [@hcamilogruiz](https://twitter.com/hcamilogruiz)
+- Jaime David Niño Valderrama - [@Orferus](https://twitter.com/orferus)
+- Ricardo Rojas - [@rodrionrails](https://twitter.com/rodrionrails)
+- Gabriel Garnica - [@antiadherente](https://twitter.com/antiadherente)
+- Juan David Pareja Soto - [@parejajd](https://twitter.com/parejajd)
+- Carlos Villamizar - [@calvimor_](https://twitter.com/calvimor_)
+- Juan Esteban Arango - [@juanesarango](https://twitter.com/juanesarango)
+- Pedro Sierra - [@peter_sierra](https://twitter.com/peter_sierra)
+- Ignacio Salcedo - https://isalcedo.com
+- Manuela Castrillon - [@manucastrillonm](https://twitter.com/manucastrillonm)
+- Liz Parody - [@lizparody23](https://twitter.com/lizparody23)
+- Oscar Andrés Úsuga - [@o-andres-u](https://twitter.com/o_andres_u)
+- Hernán Silva - [@hachesilva](https://twitter.com/hachesilva)
+- Sergio Navarrete Suárez - [@sergionsz](https://twitter.com/sergionsz)
+- Guillermo Rodas - [@glrodasz](https://twitter.com/glrodasz)
+- Alejandra Prieto - [@kalejapb](https://twitter.com/kalejapb)
+- Yeisson Rodriguez - [@deltayeisson](https://twitter.com/deltayeisson)
+- Andrés Zorro - [@devtooler](https://twitter.com/devtooler)
+- Hugo Zapata - [@hugozap](https://twitter.com/hugozap)
+- Laura Alejandra Ortiz Martínez - [@lauspadafora](https://twitter.com/lauspadafora)
+- Rober Adrián Díaz Montoya
+- Cristiam Arley Díaz Silva - [@cdiaz](https://github.com/cdiaz)
+- Jose Aponte - [@kakashy](https://twitter.com/kakashy)
+- Julián Alejandro Lamprea - [@jalamprea](https://twitter.com/jalamprea)
+- MiguelAlegria - [@MikelAlegria](https://twitter.com/MikelAlegria)
+- Oscar Alejandro Amado Sarmiento - [@oaamados](https://twitter.com/oaamados)
+- Giovanny Ramirez Blandon - [@giovramirez](https://twitter.com/giovramirez)
+- Andrés Felipe Calderón de Restrepo - [@unjuguetero](https://twitter.com/unjuguetero)
+- Antonio Vanegas P - [@hpsaturn](https://twitter.com/hpsaturn)
+- Leonardo Wilches Marcelo - [@lwilches](https://twitter.com/lwilches)
+- Gerardo Andrés Gutiérrez Rodríguez - [@geangu](https://twitter.com/geangu)
+- Jorge Andrés González Cetina - [@jag2kn](https://github.com/jag2kn)
+- John Alexander Torres - [@alexmtbiker](https://twitter.com/alexmtbiker)
+- Fabian Diaz - [@otraarroba](https://twitter.com/otraarroba)
+- Sebastian Romero - [@bipsa](https://twitter.com/bipsa)
+- Luis Emiro Linares García - [@lulingar](https://twitter.com/lulingar)
+- Luis Hurtado - [@kommitter](https://twitter.com/kommitter)
+- Jorge Grajales - [@jag_ing](https://twitter.com/jag_ing)
+- Lennin Suescun Devia - [@Lenninlasd](https://twitter.com/LenninLsd)
+- Jose Gabriel guzman lopez - [@joseGabriel06](https://github.com/joseGabriel06)
+- Juan David Echeverry Rivera - [@juandav](https://github.com/juandav)
+- Jose Rafael Arrieta Dominguez - [@JoseArrieta_82](https://github.com/rafodelmal)
+- Luis Alfredo Porras Páez - [@lporras](https://github.com/lporras)
