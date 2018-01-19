@@ -138,3 +138,4 @@ Nos reunimos y organizamos para proveer una posición independiente y libre de a
 - Camilo Aguilar Ramírez - [@c4milo](https://twitter.com/c4milo)
 - Juan Gabriel Gutierrez - [@llanoxco](https://twitter.com/llanoxco)
 - Emmanuel Deossa Hincapié - [@emmanuelsw](https://twitter.com/emmanuelsw)
+- Hildebrando Rueda Quintero - [@theharq](https://twitter.com/theharq)
