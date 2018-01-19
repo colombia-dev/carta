@@ -156,8 +156,8 @@ Nos reunimos y organizamos para proveer una posición independiente y libre de a
 - Erick Torres - [@papabarbas](https://twitter.com/papabarbas)
 - Pablo Vallejo - [@PabloVallejo_](https://twitter.com/PabloVallejo_)
 - Juan Pablo Valencia Gómez - [@jpvg10](https://twitter.com/jpvg10)
-- Adrian Estrada - [@edsadr](https://twitter.com/edsadr)Addi
--- Alejo Yarce - [@AlejooYarce](https://twitter.com/AlejooYarce)
+- Adrian Estrada - [@edsadr](https://twitter.com/edsadr)
+- Alejo Yarce - [@AlejooYarce](https://twitter.com/AlejooYarce)
 - Fredy E Mena Andrade - [@xfry](https://twitter.com/xfry)
 - Juan David Gómez - [@judavi](https://twitter.com/judavi)
 - Adrian Estrada - [@edsadr](https://twitter.com/edsadr)
