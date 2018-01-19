@@ -173,3 +173,4 @@ Nos reunimos y organizamos para proveer una posición independiente y libre de a
 - Alejandro Ramírez - [@soyalejoramirez](https://twitter.com/soyalejoramirez)
 - Mario Daniel Ruiz Saavedra - [@desiderantes](https://twitter.com/desiderantes)
 - Marian Villa - [@marianvilla](https://twitter.com/Marianvilla)
+- Jahir Fabian Fiquitiva Ricaurte - [@jahirfiquitiva](https://twitter.com/jahirfiquitiva)
