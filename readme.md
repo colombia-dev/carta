@@ -139,4 +139,8 @@ Nos reunimos y organizamos para proveer una posición independiente y libre de a
 - Juan Gabriel Gutierrez - [@llanoxco](https://twitter.com/llanoxco)
 - Emmanuel Deossa Hincapié - [@emmanuelsw](https://twitter.com/emmanuelsw)
 - Sebastián Arcila Valenzuela - [@sarcilav](https://twitter.com/sarcilav)
-
+- Miguel Fernando Cabrera  - [@mfcabrera](https://twitter.com/mfcabrera)
+- Angie Melissa Delgado - [@Meyito_](https://twitter.com/Meyito_)
+- Alejandro Cadavid López - [@acadavid](https://twitter.com/acadavid)
+- Federico Builes - [@febuiles](https://twitter.com/febuiles)
+- Hildebrando Rueda Quintero - [@theharq](https://twitter.com/theharq)
