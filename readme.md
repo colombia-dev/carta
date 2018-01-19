@@ -187,6 +187,7 @@ Nos reunimos y organizamos para proveer una posición independiente y libre de a
 - Steven Rafael Gonzalez Machado - [@srgm86](https://twitter.com/srgm86)
 - Daniel Sánchez Tello - [@Daniel_Santello](https://twitter.com/daniel_santello)
 - Julian Duque - [@julian_duque](https://twitter.com/julian_duque)
+- Omar Duque - [@omar_duque](https://twitter.com/omar_duque)
 - Daniel Estrada Aristizábal
 - Juan Carlos Ruiz - [@JuanKRuiz](https://twitter.com/JuanKRuiz)
 - Jaime David Niño Valderrama - [@Orferus](https://twitter.com/orferus)
