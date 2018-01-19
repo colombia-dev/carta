@@ -252,4 +252,5 @@ Nos reunimos y organizamos para proveer una posición independiente y libre de a
 - Maria Camila Gómez Restrepo - [@camigomez35](https://github.com/camigomez35)
 - Ivan Dario Villa Ramirez - [@IVilla85](https://twitter.com/IVilla85)
 - Juan Felipe Duque García - [@jfduque](https://github.com/jfduque)
+- Manuel Fernando Sabogal Ocampo - [@ItsEdoren](https://twitter.com/ItsEdoren)
 - Juan David Nicholls Cardona - [@jdnichollsc](https://github.com/jdnichollsc)
