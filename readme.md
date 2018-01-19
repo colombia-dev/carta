@@ -147,3 +147,4 @@ Nos reunimos y organizamos para proveer una posición independiente y libre de a
 - Angie Melissa Delgado - [@Meyito_](https://twitter.com/Meyito_)
 - Federico Builes - [@febuiles](https://twitter.com/febuiles)
 - Hildebrando Rueda Quintero - [@theharq](https://twitter.com/theharq)
+- Yeison Daza - [@yeion7](https://twitter.com/yeion7)
