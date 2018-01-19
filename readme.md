@@ -1,4 +1,4 @@
-# Carta Abierta al DANE
+﻿# Carta Abierta al DANE
 
 Colombia, 19 de Enero de 2018
 
@@ -207,3 +207,4 @@ Nos reunimos y organizamos para proveer una posición independiente y libre de a
 - Carlos Villamizar - [@calvimor_](https://twitter.com/calvimor_)
 - Juan Esteban Arango - [@juanesarango](https://twitter.com/juanesarango)
 - Pedro Sierra - [@peter_sierra](https://twitter.com/peter_sierra)
+- Oscar Andrés Úsuga - [@o-andres-u](https://twitter.com/o_andres_u)
