@@ -260,4 +260,5 @@ Nos reunimos y organizamos para proveer una posición independiente y libre de a
 - Julian R Figueroa - [@unmultimedio](https://twitter.com/unmultimedio)
 - Pablo Ferrer Betancur - [@pferrer23](https://github.com/pferrer23)
 - Cristian Cepeda - [@FollowCristian](https://twitter.com/FollowCristian)
+- Erlinis Quintana - [@erlinis](https://github.com/erlinis)
 - Giovanny Gongora - [@Gioyik](https://twitter.com/Gioyik)
