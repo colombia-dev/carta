@@ -137,3 +137,4 @@ Nos reunimos y organizamos para proveer una posición independiente y libre de a
 - Ernesto Nobmann Chávez - [@nobmann88](https://twitter.com/nobmann88)
 - Camilo Aguilar Ramírez - [@c4milo](https://twitter.com/c4milo)
 - Juan Gabriel Gutierrez - [@llanoxco](https://twitter.com/llanoxco)
+- Emmanuel Deossa Hincapié - [@emmanuelsw](https://twitter.com/emmanuelsw)
