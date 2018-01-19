@@ -154,3 +154,4 @@ Nos reunimos y organizamos para proveer una posición independiente y libre de a
 - Pablo Vallejo - [@PabloVallejo_](https://twitter.com/PabloVallejo_)
 - Juan David Gómez - [@judavi](https://twitter.com/judavi)
 - Adrian Estrada - [@edsadr](https://twitter.com/edsadr)
+- Carlos Daniel Muñoz Idarraga - [@cdmunozi](https://twitter.com/cdmunozi)
