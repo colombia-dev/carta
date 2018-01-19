@@ -152,6 +152,7 @@ Nos reunimos y organizamos para proveer una posición independiente y libre de a
 - David Andres Roncancio Joya - [@kuryaki](https://twitter.com/kuryaki)
 - Oscar Rendon - [@orendon](https://twitter.com/orendon)
 - Pablo Vallejo - [@PabloVallejo_](https://twitter.com/PabloVallejo_)
+- Juan Pablo Valencia Gómez - [@jpvg10](https://twitter.com/jpvg10)
 - Adrian Estrada - [@edsadr](https://twitter.com/edsadr)Addi
 - Alejo Yarce - [@AlejooYarce](https://twitter.com/AlejooYarce)
 - Fredy E Mena Andrade - [@xfry](https://twitter.com/xfry)
