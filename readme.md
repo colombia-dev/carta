@@ -161,3 +161,5 @@ Nos reunimos y organizamos para proveer una posición independiente y libre de a
 - Carlos Daniel Muñoz Idarraga - [@cdmunozi](https://twitter.com/cdmunozi)
 - Santiago M Zubieta Ortiz - [@zubie7a](https://twitter.com/zubie7a)
 - Julian Betancourt - [@juliian41](https://twitter.com/juliian41)
+- Andrey Ruíz Hincapié - [@davkorss](https://twitter.com/davkorss)
+- Gustavo Andrés Angulo - [@woakas](https://twitter.com/woakas)
