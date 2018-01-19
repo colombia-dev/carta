@@ -1,4 +1,4 @@
-# Carta Abierta al DANE
+﻿# Carta Abierta al DANE
 
 Colombia, 19 de Enero de 2018
 
@@ -160,3 +160,4 @@ Nos reunimos y organizamos para proveer una posición independiente y libre de a
 - Adrian Estrada - [@edsadr](https://twitter.com/edsadr)
 - Carlos Daniel Muñoz Idarraga - [@cdmunozi](https://twitter.com/cdmunozi)
 - Santiago M Zubieta Ortiz - [@zubie7a](https://twitter.com/zubie7a)
+- Alejandro Ramírez - [@soyalejoramirez](https://twitter.com/soyalejoramirez)
