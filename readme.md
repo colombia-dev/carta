@@ -186,3 +186,4 @@ Nos reunimos y organizamos para proveer una posición independiente y libre de a
 - Steven Rafael Gonzalez Machado - [@srgm86](https://twitter.com/srgm86)
 - Daniel Sánchez Tello - [@Daniel_Santello](https://twitter.com/daniel_santello)
 - Julian Duque - [@julian_duque](https://twitter.com/julian_duque)
+- Andres Aristizabal Guerrero - [aaristiz1](https://twitter.com/aaristiz1)
