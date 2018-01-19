@@ -150,3 +150,4 @@ Nos reunimos y organizamos para proveer una posición independiente y libre de a
 - Yeison Daza - [@yeion7](https://twitter.com/yeion7)
 - Steven Augusto Villegas Castellanos - [@stifflerbassman](https://twitter.com/stifflerbassman)
 - David Andres Roncancio Joya - [@kuryaki](https://twitter.com/kuryaki)
+- Oscar Rendon - [@orendon](https://twitter.com/orendon)
