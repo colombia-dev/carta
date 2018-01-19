@@ -173,6 +173,7 @@ Nos reunimos y organizamos para proveer una posición independiente y libre de a
 - Edward Alejandro Rayo Cortés - [@earayo0521](https://twitter.com/earayo0521)
 - Alejandro Next - [@alejonext](http://github.com/alejonext/)
 - Alejandro Ramírez - [@soyalejoramirez](https://twitter.com/soyalejoramirez)
+- Julian Camilo Vega - [@f14c0](https://twitter.com/f14c0)
 - Mario Daniel Ruiz Saavedra - [@desiderantes](https://twitter.com/desiderantes)
 - Juan Pablo Romero Bernal - [@juanblo](https://twitter.com/juanblo)
 - Rubén Darío Avila Home - [@rubenavilah](https://twitter.com/rubenavilah)
