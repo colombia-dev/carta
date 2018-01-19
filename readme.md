@@ -199,11 +199,11 @@ Nos reunimos y organizamos para proveer una posición independiente y libre de a
 - Andres Serrano - [@andressrg](https://twitter.com/andressrg)
 - Carlos I Mercado - [@civanmercado](https://twitter.com/civanmercado)
 - Diego Soto - [@DiegoSoto](https://twitter.com/DiegoSoto)
-- Gabriel Garnica - [@antiadherente](https://twitter.com/antiadherente)
+- Gabriel Garnica
 - Hernan Camilo Gomez R - [@hcamilogruiz](https://twitter.com/hcamilogruiz)
 - Jaime David Niño Valderrama - [@Orferus](https://twitter.com/orferus)
 - Ricardo Rojas - [@rodrionrails](https://twitter.com/rodrionrails)
-- Gabriel Garnica - [@antiadherente](https://twitter.com/antiadherente)
+
 - Juan David Pareja Soto - [@parejajd](https://twitter.com/parejajd)
 - Carlos Villamizar - [@calvimor_](https://twitter.com/calvimor_)
 - Juan Esteban Arango - [@juanesarango](https://twitter.com/juanesarango)
