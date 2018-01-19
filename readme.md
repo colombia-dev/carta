@@ -91,7 +91,7 @@ Nos reunimos y organizamos para proveer una posición independiente y libre de a
 - Juliana Gomez
 - Johny Alexander Varela Osorio
 - Daniel Felicita
-- David Guzman
+- Hernan Guzman - [@hernandgr](https://twitter.com/hernandgr)
 - Cristian Camilo Moreno Zuluaga - [@khriztianmoreno](https://twitter.com/khriztianmoreno)
 - Andres Felipe Cardona Castro
 - Daniel Felipe Marulanda - [@Dfmarulanda](https://twitter.com/Dfmarulanda)
