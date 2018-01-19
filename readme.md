@@ -158,4 +158,5 @@ Nos reunimos y organizamos para proveer una posición independiente y libre de a
 - Fredy E Mena Andrade - [@xfry](https://twitter.com/xfry)
 - Juan David Gómez - [@judavi](https://twitter.com/judavi)
 - Adrian Estrada - [@edsadr](https://twitter.com/edsadr)
+- Carlos Daniel Muñoz Idarraga - [@cdmunozi](https://twitter.com/cdmunozi)
 - Santiago M Zubieta Ortiz - [@zubie7a](https://twitter.com/zubie7a)
