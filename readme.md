@@ -262,3 +262,4 @@ Nos reunimos y organizamos para proveer una posición independiente y libre de a
 - Cristian Cepeda - [@FollowCristian](https://twitter.com/FollowCristian)
 - Erlinis Quintana - [@erlinis](https://github.com/erlinis)
 - Giovanny Gongora - [@Gioyik](https://twitter.com/Gioyik)
+- Alejandro Moreno - [@amoreno](https://github.com/alejo-moreno)
