@@ -151,3 +151,4 @@ Nos reunimos y organizamos para proveer una posición independiente y libre de a
 - Steven Augusto Villegas Castellanos - [@stifflerbassman](https://twitter.com/stifflerbassman)
 - David Andres Roncancio Joya - [@kuryaki](https://twitter.com/kuryaki)
 - Oscar Rendon - [@orendon](https://twitter.com/orendon)
+- Pablo Vallejo - [@PabloVallejo_](https://twitter.com/PabloVallejo_)
