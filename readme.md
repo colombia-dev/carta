@@ -244,3 +244,4 @@ Nos reunimos y organizamos para proveer una posición independiente y libre de a
 - Juan David Echeverry Rivera - [@juandav](https://github.com/juandav)
 - Jose Rafael Arrieta Dominguez - [@JoseArrieta_82](https://github.com/rafodelmal)
 - Luis Alfredo Porras Páez - [@lporras](https://github.com/lporras)
+- Camilo Andrés Sampedro - [@camilosampedro](https://github.com/camilosampedro)
