@@ -194,6 +194,7 @@ Nos reunimos y organizamos para proveer una posición independiente y libre de a
 - Omar Duque - [@omar_duque](https://twitter.com/omar_duque)
 - Daniel Estrada Aristizábal
 - Juan Carlos Ruiz - [@JuanKRuiz](https://twitter.com/JuanKRuiz)
+- Pedro Iván Piza Rodríguez - [@Pedro92Ivan](https://twitter.com/Pedro92Ivan)
 - Andres Serrano - [@andressrg](https://twitter.com/andressrg)
 - Carlos I Mercado - [@civanmercado](https://twitter.com/civanmercado)
 - Diego Soto - [@DiegoSoto](https://twitter.com/DiegoSoto)
