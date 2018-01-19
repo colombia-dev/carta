@@ -1,4 +1,4 @@
-# Carta Abierta al DANE
+﻿# Carta Abierta al DANE
 
 Colombia, 19 de Enero de 2018
 
@@ -145,6 +145,7 @@ Nos reunimos y organizamos para proveer una posición independiente y libre de a
 - Miguel Fernando Cabrera  - [@mfcabrera](https://twitter.com/mfcabrera)
 - Angie Melissa Delgado - [@Meyito_](https://twitter.com/Meyito_)
 - Federico Builes - [@febuiles](https://twitter.com/febuiles)
+- Nicolás Hock Isaza - [@nhocki](https://twitter.com/nhocki)
 - Hildebrando Rueda Quintero - [@theharq](https://twitter.com/theharq)
 - Alejandro Cadavid López - [@acadavid](https://twitter.com/acadavid)
 - Yeison Daza - [@yeion7](https://twitter.com/yeion7)
@@ -164,3 +165,9 @@ Nos reunimos y organizamos para proveer una posición independiente y libre de a
 - Andrey Ruíz Hincapié - [@davkorss](https://twitter.com/davkorss)
 - Gustavo Andrés Angulo - [@woakas](https://twitter.com/woakas)
 - Juan David henao - [@jhenaoz93](https://twitter.com/jhenaoz93)
+- Juan Mateo Velilla Ospina - [@r3v3r5ing](https://twitter.com/r3v3r5ing)
+- Juan David Sánchez - [@d4vsanchez](https://twitter.com/d4vsanchez)
+- César Suárez T. [@cesarlarsson](https://twitter.com/cesarlarsson)
+- Edward Alejandro Rayo Cortés - [@earayo0521](https://twitter.com/earayo0521)
+- Alejandro Next - [@alejonext](http://github.com/alejonext/)
+- Alejandro Ramírez - [@soyalejoramirez](https://twitter.com/soyalejoramirez)
