@@ -1,4 +1,4 @@
-# Carta Abierta al DANE
+﻿# Carta Abierta al DANE
 
 Colombia, 19 de Enero de 2018
 
@@ -160,6 +160,12 @@ Nos reunimos y organizamos para proveer una posición independiente y libre de a
 - Adrian Estrada - [@edsadr](https://twitter.com/edsadr)
 - Carlos Daniel Muñoz Idarraga - [@cdmunozi](https://twitter.com/cdmunozi)
 - Santiago M Zubieta Ortiz - [@zubie7a](https://twitter.com/zubie7a)
+- Julian Betancourt - [@juliian41](https://twitter.com/juliian41)
 - Andrey Ruíz Hincapié - [@davkorss](https://twitter.com/davkorss)
 - Gustavo Andrés Angulo - [@woakas](https://twitter.com/woakas)
 - Juan Mateo Velilla Ospina - [@r3v3r5ing](https://twitter.com/r3v3r5ing)
+- Juan David Sánchez - [@d4vsanchez](https://twitter.com/d4vsanchez)
+- César Suárez T. [@cesarlarsson](https://twitter.com/cesarlarsson)
+- Edward Alejandro Rayo Cortés - [@earayo0521](https://twitter.com/earayo0521)
+- Alejandro Next - [@alejonext](http://github.com/alejonext/)
+- Alejandro Ramírez - [@soyalejoramirez](https://twitter.com/soyalejoramirez)
