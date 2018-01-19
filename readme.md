@@ -152,3 +152,4 @@ Nos reunimos y organizamos para proveer una posición independiente y libre de a
 - David Andres Roncancio Joya - [@kuryaki](https://twitter.com/kuryaki)
 - Oscar Rendon - [@orendon](https://twitter.com/orendon)
 - Pablo Vallejo - [@PabloVallejo_](https://twitter.com/PabloVallejo_)
+- Juan David Gómez - [@judavi](https://twitter.com/judavi)
