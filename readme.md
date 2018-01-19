@@ -162,3 +162,4 @@ Nos reunimos y organizamos para proveer una posición independiente y libre de a
 - Santiago M Zubieta Ortiz - [@zubie7a](https://twitter.com/zubie7a)
 - Andrey Ruíz Hincapié - [@davkorss](https://twitter.com/davkorss)
 - Gustavo Andrés Angulo - [@woakas](https://twitter.com/woakas)
+- Juan Mateo Velilla Ospina - [@r3v3r5ing](https://twitter.com/r3v3r5ing)
