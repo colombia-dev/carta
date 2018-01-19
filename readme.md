@@ -194,3 +194,4 @@ Nos reunimos y organizamos para proveer una posición independiente y libre de a
 - Jaime David Niño Valderrama - [@Orferus](https://twitter.com/orferus)
 - Ricardo Rojas - [@rodrionrails](https://twitter.com/rodrionrails)
 - Gabriel Garnica - [@antiadherente](https://twitter.com/antiadherente)
+- Carlos Villamizar - [@calvimor_](https://twitter.com/calvimor_)
