@@ -245,6 +245,7 @@ Nos reunimos y organizamos para proveer una posición independiente y libre de a
 - Juan David Echeverry Rivera - [@juandav](https://github.com/juandav)
 - Jose Rafael Arrieta Dominguez - [@JoseArrieta_82](https://github.com/rafodelmal)
 - Luis Alfredo Porras Páez - [@lporras](https://github.com/lporras)
+- James Garzón Otalvaro - [@jamesgarzon](https://github.com/jamesgarzon)
 - Maria Camila Gómez Restrepo - [@camigomez35](https://github.com/camigomez35)
 - Ivan Dario Villa Ramirez - [@IVilla85](https://twitter.com/IVilla85)
 - Juan Felipe Duque García - [@jfduque](https://github.com/jfduque)
