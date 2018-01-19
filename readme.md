@@ -257,3 +257,4 @@ Nos reunimos y organizamos para proveer una posición independiente y libre de a
 - Jorge Leonardo Vernaza Becerra - [@leo0307vb](https://github.com/leo0307vb)
 - Julian Cardenas Mazo - [@juliankmazo](https://github.com/juliankmazo)
 - Fabián Ríos - [@FabianRiosArias](https://twitter.com/FabianRiosArias)
+- Pablo Ferrer Betancur - [@pferrer23](https://github.com/pferrer23)
