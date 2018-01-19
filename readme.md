@@ -140,3 +140,4 @@ Nos reunimos y organizamos para proveer una posición independiente y libre de a
 - Emmanuel Deossa Hincapié - [@emmanuelsw](https://twitter.com/emmanuelsw)
 - Alejandro Cadavid López - [@acadavid](https://twitter.com/acadavid)
 - Federico Builes - [@febuiles](https://twitter.com/febuiles)
+- Hildebrando Rueda Quintero - [@theharq](https://twitter.com/theharq)
