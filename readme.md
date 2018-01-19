@@ -112,7 +112,7 @@ Nos reunimos y organizamos para proveer una posición independiente y libre de a
 - Yeiner Fernández Bustos - [@yeinerf](https://twitter.com/yeinerf)
 - Elba Patricia Sánchez Márquez - [@ElbaSanchezM](https://twitter.com/ElbaSanchezM)
 - Jose Miguel García García - [@pingoz](https://twitter.com/pingoz)
-- Juan Sebastian Velez
+- Juan Sebastian Velez [@jvelezpo](https://twitter.com/jvelezpo)
 - Juan Felipe Bedoya Cardona - [@jfelipebc](https://twitter.com/jfelipebc)
 - Manuel Fernando Sabogal Ocampo - [@ItsEdoren](https://twitter.com/ItsEdoren)
 - Francisco Arley López Espinosa
