@@ -154,5 +154,6 @@ Nos reunimos y organizamos para proveer una posición independiente y libre de a
 - Pablo Vallejo - [@PabloVallejo_](https://twitter.com/PabloVallejo_)
 - Adrian Estrada - [@edsadr](https://twitter.com/edsadr)Addi
 - Alejo Yarce - [@AlejooYarce](https://twitter.com/AlejooYarce)
+- Fredy E Mena Andrade - [@xfry](https://twitter.com/xfry)
 - Juan David Gómez - [@judavi](https://twitter.com/judavi)
 - Adrian Estrada - [@edsadr](https://twitter.com/edsadr)
