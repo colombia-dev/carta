@@ -231,4 +231,7 @@ Nos reunimos y organizamos para proveer una posición independiente y libre de a
 - Antonio Vanegas P - [@hpsaturn](https://twitter.com/hpsaturn)
 - Leonardo Wilches Marcelo - [@lwilches](https://twitter.com/lwilches)
 - Gerardo Andrés Gutiérrez Rodríguez - [@geangu](https://twitter.com/geangu)
+- Jorge Andrés González Cetina - [@jag2kn](https://github.com/jag2kn)
+- John Alexander Torres - [@alexmtbiker](https://twitter.com/alexmtbiker)
+- Fabian Diaz - [@otraarroba](https://twitter.com/otraarroba)
 - Luis Emiro Linares García - [@lulingar](https://twitter.com/lulingar)
