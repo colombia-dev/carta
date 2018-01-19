@@ -235,6 +235,7 @@ Nos reunimos y organizamos para proveer una posición independiente y libre de a
 - Jorge Andrés González Cetina - [@jag2kn](https://github.com/jag2kn)
 - John Alexander Torres - [@alexmtbiker](https://twitter.com/alexmtbiker)
 - Fabian Diaz - [@otraarroba](https://twitter.com/otraarroba)
+- Sebastian Romero - [@bipsa](https://twitter.com/bipsa)
 - Luis Emiro Linares García - [@lulingar](https://twitter.com/lulingar)
 - Luis Hurtado - [@kommitter](https://twitter.com/kommitter)
 - Jorge Grajales - [@jag_ing](https://twitter.com/jag_ing)
