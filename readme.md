@@ -240,5 +240,5 @@ Nos reunimos y organizamos para proveer una posición independiente y libre de a
 - Luis Hurtado - [@kommitter](https://twitter.com/kommitter)
 - Jorge Grajales - [@jag_ing](https://twitter.com/jag_ing)
 - Lennin Suescun Devia - [@Lenninlasd](https://twitter.com/LenninLsd)
-- jose Gabriel guzman lopez - [@joseGabriel06](https://github.com/joseGabriel06)
+- Jose Gabriel guzman lopez - [@joseGabriel06](https://github.com/joseGabriel06)
 - Juan David Echeverry Rivera - [@juandav](https://github.com/juandav)
