@@ -172,6 +172,7 @@ Nos reunimos y organizamos para proveer una posición independiente y libre de a
 - Alejandro Next - [@alejonext](http://github.com/alejonext/)
 - Alejandro Ramírez - [@soyalejoramirez](https://twitter.com/soyalejoramirez)
 - Mario Daniel Ruiz Saavedra - [@desiderantes](https://twitter.com/desiderantes)
+- Claudia Lagos Ruiz - [@ClaudiaLagosR](https://twitter.com/ClaudiaLagosR)
 - John Fredy Baquero Celis - [@noverflow](https://twitter.com/noverflow)
 - Ramiro Andrés Bedoya - [@imramiro](https://twitter.com/imramiro)
 - Juan David Maldonado - [@jdmaldonado06](https://twitter.com/jdmaldonado06)
