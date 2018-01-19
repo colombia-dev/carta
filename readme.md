@@ -179,3 +179,4 @@ Nos reunimos y organizamos para proveer una posición independiente y libre de a
 - Johana S. Rodriguez - [@Joha0](https://github.com/joha0)
 - Marian Villa - [@marianvilla](https://twitter.com/Marianvilla)
 - Jahir Fabian Fiquitiva Ricaurte - [@jahirfiquitiva](https://twitter.com/jahirfiquitiva)
+- Byron Herrera - [@silenceway](https://twitter.com/silenceway)
