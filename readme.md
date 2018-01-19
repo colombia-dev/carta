@@ -232,3 +232,4 @@ Nos reunimos y organizamos para proveer una posición independiente y libre de a
 - Leonardo Wilches Marcelo - [@lwilches](https://twitter.com/lwilches)
 - Gerardo Andrés Gutiérrez Rodríguez - [@geangu](https://twitter.com/geangu)
 - John Alexander Torres - [@alexmtbiker](https://twitter.com/alexmtbiker)
+- Fabian Diaz - [@otraarroba](https://twitter.com/otraarroba)
