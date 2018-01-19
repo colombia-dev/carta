@@ -229,3 +229,4 @@ Nos reunimos y organizamos para proveer una posición independiente y libre de a
 - Andrés Felipe Calderón de Restrepo - [@unjuguetero](https://twitter.com/unjuguetero)
 - Antonio Vanegas P - [@hpsaturn](https://twitter.com/hpsaturn)
 - Leonardo Wilches Marcelo - [@lwilches](https://twitter.com/lwilches)
+- Gerardo Andrés Gutiérrez Rodríguez - [@geangu](https://twitter.com/geangu)
