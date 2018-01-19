@@ -156,7 +156,7 @@ Nos reunimos y organizamos para proveer una posición independiente y libre de a
 - Pablo Vallejo - [@PabloVallejo_](https://twitter.com/PabloVallejo_)
 - Juan Pablo Valencia Gómez - [@jpvg10](https://twitter.com/jpvg10)
 - Adrian Estrada - [@edsadr](https://twitter.com/edsadr)Addi
-- Alejo Yarce - [@AlejooYarce](https://twitter.com/AlejooYarce)
+-- Alejo Yarce - [@AlejooYarce](https://twitter.com/AlejooYarce)
 - Fredy E Mena Andrade - [@xfry](https://twitter.com/xfry)
 - Juan David Gómez - [@judavi](https://twitter.com/judavi)
 - Adrian Estrada - [@edsadr](https://twitter.com/edsadr)
@@ -207,4 +207,5 @@ Nos reunimos y organizamos para proveer una posición independiente y libre de a
 - Carlos Villamizar - [@calvimor_](https://twitter.com/calvimor_)
 - Juan Esteban Arango - [@juanesarango](https://twitter.com/juanesarango)
 - Pedro Sierra - [@peter_sierra](https://twitter.com/peter_sierra)
+- Yeisson Rodriguez - [@deltayeisson](https://twitter.com/deltayeisson)
 - Andrés Zorro - [@devtooler](https://twitter.com/devtooler)
