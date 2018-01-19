@@ -220,3 +220,4 @@ Nos reunimos y organizamos para proveer una posición independiente y libre de a
 - Andrés Zorro - [@devtooler](https://twitter.com/devtooler)
 - Hugo Zapata - [@hugozap](https://twitter.com/hugozap)
 - Laura Alejandra Ortiz Martínez - [@lauspadafora](https://twitter.com/lauspadafora)
+- Rober Adrián Díaz Montoya
