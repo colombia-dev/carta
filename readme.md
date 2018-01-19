@@ -181,3 +181,4 @@ Nos reunimos y organizamos para proveer una posición independiente y libre de a
 - Marian Villa - [@marianvilla](https://twitter.com/Marianvilla)
 - Alonso Montenegro [@alonsoenrique](https://github.com/alonsoenrique/)
 - Jahir Fabian Fiquitiva Ricaurte - [@jahirfiquitiva](https://twitter.com/jahirfiquitiva)
+- Neider Tapia Avila - [@nrtapia](https://twitter.com/nrtapia)
