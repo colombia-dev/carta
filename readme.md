@@ -139,4 +139,4 @@ Nos reunimos y organizamos para proveer una posición independiente y libre de a
 - Juan Gabriel Gutierrez - [@llanoxco](https://twitter.com/llanoxco)
 - Emmanuel Deossa Hincapié - [@emmanuelsw](https://twitter.com/emmanuelsw)
 - ALejandro Cadavid López - [@acadavid](https://twitter.com/acadavid)
-- Yeison Daza - [@ayeion7](https://twitter.com/yeion7)
+- Yeison Daza - [@yeion7](https://twitter.com/yeion7)
