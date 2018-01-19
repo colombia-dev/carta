@@ -192,11 +192,10 @@ Nos reunimos y organizamos para proveer una posición independiente y libre de a
 - Omar Duque - [@omar_duque](https://twitter.com/omar_duque)
 - Daniel Estrada Aristizábal
 - Juan Carlos Ruiz - [@JuanKRuiz](https://twitter.com/JuanKRuiz)
-- Carlos I Mercado - [@civanmercado](https://twitter.com/civanmercado)
-- Diego Soto - [@DiegoSoto](https://twitter.com/DiegoSoto)
 - Gabriel Garnica - [@antiadherente](https://twitter.com/antiadherente)
 - Hernan Camilo Gomez R - [@hcamilogruiz](https://twitter.com/hcamilogruiz)
 - Jaime David Niño Valderrama - [@Orferus](https://twitter.com/orferus)
 - Ricardo Rojas - [@rodrionrails](https://twitter.com/rodrionrails)
 - Gabriel Garnica - [@antiadherente](https://twitter.com/antiadherente)
 - Carlos Villamizar - [@calvimor_](https://twitter.com/calvimor_)
+- Pedro Sierra - [@peter_sierra](https://twitter.com/peter_sierra)
