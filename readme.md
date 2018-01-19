@@ -153,6 +153,7 @@ Nos reunimos y organizamos para proveer una posición independiente y libre de a
 - Steven Augusto Villegas Castellanos - [@stifflerbassman](https://twitter.com/stifflerbassman)
 - David Andres Roncancio Joya - [@kuryaki](https://twitter.com/kuryaki)
 - Oscar Rendon - [@orendon](https://twitter.com/orendon)
+- Erick Torres - [@papabarbas](https://twitter.com/papabarbas)
 - Pablo Vallejo - [@PabloVallejo_](https://twitter.com/PabloVallejo_)
 - Juan Pablo Valencia Gómez - [@jpvg10](https://twitter.com/jpvg10)
 - Adrian Estrada - [@edsadr](https://twitter.com/edsadr)Addi
@@ -199,11 +200,11 @@ Nos reunimos y organizamos para proveer una posición independiente y libre de a
 - Andres Serrano - [@andressrg](https://twitter.com/andressrg)
 - Carlos I Mercado - [@civanmercado](https://twitter.com/civanmercado)
 - Diego Soto - [@DiegoSoto](https://twitter.com/DiegoSoto)
-- Gabriel Garnica
+- Gabriel Garnica - [@antiadherente](https://twitter.com/antiadherente)
 - Hernan Camilo Gomez R - [@hcamilogruiz](https://twitter.com/hcamilogruiz)
 - Jaime David Niño Valderrama - [@Orferus](https://twitter.com/orferus)
 - Ricardo Rojas - [@rodrionrails](https://twitter.com/rodrionrails)
-
+- Gabriel Garnica - [@antiadherente](https://twitter.com/antiadherente)
 - Juan David Pareja Soto - [@parejajd](https://twitter.com/parejajd)
 - Carlos Villamizar - [@calvimor_](https://twitter.com/calvimor_)
 - Juan Esteban Arango - [@juanesarango](https://twitter.com/juanesarango)
