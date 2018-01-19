@@ -20,9 +20,7 @@ En cuanto a logística, nos gustaría contar con lo siguiente:
 Esperamos su pronta respuesta y agradecemos su interés en la construcción conjunta de herramientas seguras y eficientes para impulsar el desarrollo del país.
 
 Juan Pablo Buriticá
-
 Cofundador [Colombia.Dev](https://colombia-dev.org)
-
 t: [@buritica](https://twitter.com/buritica)
 
 Incluyo en cc,
@@ -35,5 +33,4 @@ Incluyo en bcc,
 - Carolina Botero, [Fundación Karisma](https://karisma.org.co/)
 - Maria del Pilar Saenz, [Fundación Karisma](https://karisma.org.co/)
 - Cristian Medina, [W Radio](http://www.wradio.com.co)
-
 Nota: Una copia de este correo se encuentra disponible en [https://github.com/colombia-dev/carta/blob/master/contacto_dane.md](https://github.com/colombia-dev/carta/blob/master/contacto_dane.md)
