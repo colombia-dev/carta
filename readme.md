@@ -226,4 +226,7 @@ Nos reunimos y organizamos para proveer una posición independiente y libre de a
 - Julián Alejandro Lamprea - [@jalamprea](https://twitter.com/jalamprea)
 - MiguelAlegria - [@MikelAlegria](https://twitter.com/MikelAlegria)
 - Oscar Alejandro Amado Sarmiento - [@oaamados](https://twitter.com/oaamados)
-- Giovanny Ramirez Blandon [@giovramirez](https://twitter.com/giovramirez)
+- Giovanny Ramirez Blandon - [@giovramirez](https://twitter.com/giovramirez)
+- Andrés Felipe Calderón de Restrepo - [@unjuguetero](https://twitter.com/unjuguetero)
+- Antonio Vanegas P - [@hpsaturn](https://twitter.com/hpsaturn)
+- Leonardo Wilches Marcelo - [@lwilches](https://twitter.com/lwilches)
