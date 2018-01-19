@@ -183,3 +183,4 @@ Nos reunimos y organizamos para proveer una posición independiente y libre de a
 - Jahir Fabian Fiquitiva Ricaurte - [@jahirfiquitiva](https://twitter.com/jahirfiquitiva)
 - Byron Herrera - [@silenceway](https://twitter.com/silenceway)
 - Neider Tapia Avila - [@nrtapia](https://twitter.com/nrtapia)
+- Andres Zapata Cano - [@andfelzapata](https://twitter.com/andfelzapata)
