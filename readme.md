@@ -256,3 +256,4 @@ Nos reunimos y organizamos para proveer una posición independiente y libre de a
 - Juan David Nicholls Cardona - [@jdnichollsc](https://github.com/jdnichollsc)
 - Jorge Leonardo Vernaza Becerra - [@leo0307vb](https://github.com/leo0307vb)
 - Julian Cardenas Mazo - [@juliankmazo](https://github.com/juliankmazo)
+- Fabián Ríos - [@FabianRiosArias](https://twitter.com/FabianRiosArias)
