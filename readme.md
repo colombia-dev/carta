@@ -135,3 +135,4 @@ Nos reunimos y organizamos para proveer una posición independiente y libre de a
 - Cristian Andrés Martínez - @b3nkos
 - Hamilton Alvarez Mejia - @mejialvarez
 - Ernesto Nobmann Chávez - @nobmann88
+- Camilo Aguilar Ramírez - @c4milo
