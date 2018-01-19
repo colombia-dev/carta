@@ -262,3 +262,4 @@ Nos reunimos y organizamos para proveer una posición independiente y libre de a
 - Cristian Cepeda - [@FollowCristian](https://twitter.com/FollowCristian)
 - Erlinis Quintana - [@erlinis](https://github.com/erlinis)
 - Giovanny Gongora - [@Gioyik](https://twitter.com/Gioyik)
+- Omar Leonardo Montoya Cardenas - [@omar_montoya_90](https://twitter.com/omar_montoya_90)
