@@ -188,3 +188,4 @@ Nos reunimos y organizamos para proveer una posición independiente y libre de a
 - Julian Duque - [@julian_duque](https://twitter.com/julian_duque)
 - Daniel Estrada Aristizábal
 - Juan Carlos Ruiz - [@JuanKRuiz](https://twitter.com/JuanKRuiz)
+- Gabriel Garnica - [@antiadherente](https://twitter.com/antiadherente)
