@@ -184,3 +184,4 @@ Nos reunimos y organizamos para proveer una posición independiente y libre de a
 - Byron Herrera - [@silenceway](https://twitter.com/silenceway)
 - Neider Tapia Avila - [@nrtapia](https://twitter.com/nrtapia)
 - Andres Zapata Cano - [@andfelzapata](https://twitter.com/andfelzapata)
+- Steven Rafael Gonzalez Machado - [@srgm86](https://twitter.com/srgm86)
