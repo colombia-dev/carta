@@ -112,7 +112,7 @@ Nos reunimos y organizamos para proveer una posición independiente y libre de a
 - Yeiner Fernández Bustos - [@yeinerf](https://twitter.com/yeinerf)
 - Elba Patricia Sánchez Márquez - [@ElbaSanchezM](https://twitter.com/ElbaSanchezM)
 - Jose Miguel García García - [@pingoz](https://twitter.com/pingoz)
-- Juan Sebastian Velez
+- Juan Sebastian Velez [@jvelezpo](https://twitter.com/jvelezpo)
 - Juan Felipe Bedoya Cardona - [@jfelipebc](https://twitter.com/jfelipebc)
 - Manuel Fernando Sabogal Ocampo - [@ItsEdoren](https://twitter.com/ItsEdoren)
 - Francisco Arley López Espinosa
@@ -173,6 +173,7 @@ Nos reunimos y organizamos para proveer una posición independiente y libre de a
 - Alejandro Next - [@alejonext](http://github.com/alejonext/)
 - Alejandro Ramírez - [@soyalejoramirez](https://twitter.com/soyalejoramirez)
 - Mario Daniel Ruiz Saavedra - [@desiderantes](https://twitter.com/desiderantes)
+- Juan Pablo Romero Bernal - [@juanblo](https://twitter.com/juanblo) 
 - Rubén Darío Avila Home - [@rubenavilah](https://twitter.com/rubenavilah)
 - Claudia Lagos Ruiz - [@ClaudiaLagosR](https://twitter.com/ClaudiaLagosR)
 - John Fredy Baquero Celis - [@noverflow](https://twitter.com/noverflow)
@@ -207,6 +208,9 @@ Nos reunimos y organizamos para proveer una posición independiente y libre de a
 - Carlos Villamizar - [@calvimor_](https://twitter.com/calvimor_)
 - Juan Esteban Arango - [@juanesarango](https://twitter.com/juanesarango)
 - Pedro Sierra - [@peter_sierra](https://twitter.com/peter_sierra)
+- Ignacio Salcedo - https://isalcedo.com
+- Manuela Castrillon - [@manucastrillonm](https://twitter.com/manucastrillonm)
+- Liz Parody - [@lizparody23](https://twitter.com/lizparody23)
 - Oscar Andrés Úsuga - [@o-andres-u](https://twitter.com/o_andres_u)
 - Hernán Silva - [@hachesilva](https://twitter.com/hachesilva)
 - Sergio Navarrete Suárez - [@sergionsz](https://twitter.com/sergionsz)
@@ -215,4 +219,4 @@ Nos reunimos y organizamos para proveer una posición independiente y libre de a
 - Yeisson Rodriguez - [@deltayeisson](https://twitter.com/deltayeisson)
 - Andrés Zorro - [@devtooler](https://twitter.com/devtooler)
 - Hugo Zapata - [@hugozap](https://twitter.com/hugozap)
-
+- Laura Alejandra Ortiz Martínez - [@lauspadafora](https://twitter.com/lauspadafora)
