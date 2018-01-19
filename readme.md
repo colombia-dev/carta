@@ -1,4 +1,4 @@
-﻿# Carta Abierta al DANE
+# Carta Abierta al DANE
 
 Colombia, 19 de Enero de 2018
 
@@ -154,7 +154,6 @@ Nos reunimos y organizamos para proveer una posición independiente y libre de a
 - Oscar Rendon - [@orendon](https://twitter.com/orendon)
 - Pablo Vallejo - [@PabloVallejo_](https://twitter.com/PabloVallejo_)
 - Juan Pablo Valencia Gómez - [@jpvg10](https://twitter.com/jpvg10)
-- Adrian Estrada - [@edsadr](https://twitter.com/edsadr)Addi
 - Alejo Yarce - [@AlejooYarce](https://twitter.com/AlejooYarce)
 - Fredy E Mena Andrade - [@xfry](https://twitter.com/xfry)
 - Juan David Gómez - [@judavi](https://twitter.com/judavi)
@@ -172,4 +171,19 @@ Nos reunimos y organizamos para proveer una posición independiente y libre de a
 - Alejandro Next - [@alejonext](http://github.com/alejonext/)
 - Alejandro Ramírez - [@soyalejoramirez](https://twitter.com/soyalejoramirez)
 - Mario Daniel Ruiz Saavedra - [@desiderantes](https://twitter.com/desiderantes)
+- Rubén Darío Avila Home - [@rubenavilah](https://twitter.com/rubenavilah)
+- Claudia Lagos Ruiz - [@ClaudiaLagosR](https://twitter.com/ClaudiaLagosR)
+- John Fredy Baquero Celis - [@noverflow](https://twitter.com/noverflow)
+- Ramiro Andrés Bedoya - [@imramiro](https://twitter.com/imramiro)
+- Juan David Maldonado - [@jdmaldonado06](https://twitter.com/jdmaldonado06)
+- Johana S. Rodriguez - [@Joha0](https://github.com/joha0)
+- Marian Villa - [@marianvilla](https://twitter.com/Marianvilla)
+- Alonso Montenegro [@alonsoenrique](https://github.com/alonsoenrique/)
+- Jahir Fabian Fiquitiva Ricaurte - [@jahirfiquitiva](https://twitter.com/jahirfiquitiva)
+- Byron Herrera - [@silenceway](https://twitter.com/silenceway)
+- Neider Tapia Avila - [@nrtapia](https://twitter.com/nrtapia)
+- Andres Zapata Cano - [@andfelzapata](https://twitter.com/andfelzapata)
+- Steven Rafael Gonzalez Machado - [@srgm86](https://twitter.com/srgm86)
+- Daniel Sánchez Tello - [@Daniel_Santello](https://twitter.com/daniel_santello)
+- Julian Duque - [@julian_duque](https://twitter.com/julian_duque)
 - Julian David Vargas Alvarez - [@app_config](https://twitter.com/app_config)
