@@ -1,4 +1,4 @@
-﻿# Carta Abierta al DANE
+# Carta Abierta al DANE
 
 Colombia, 19 de Enero de 2018
 
