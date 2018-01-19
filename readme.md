@@ -189,5 +189,5 @@ Nos reunimos y organizamos para proveer una posición independiente y libre de a
 - Julian Duque - [@julian_duque](https://twitter.com/julian_duque)
 - Daniel Estrada Aristizábal
 - Juan Carlos Ruiz - [@JuanKRuiz](https://twitter.com/JuanKRuiz)
-- Ricardo Rojas - [@rodrionrails](https://twitter.com/rodrionrails)
 - Gabriel Garnica - [@antiadherente](https://twitter.com/antiadherente)
+- Hernan Camilo Gomez R - [@hcamilogruiz](https://twitter.com/hcamilogruiz)
