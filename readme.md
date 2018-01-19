@@ -49,10 +49,10 @@ De nada sirve que se tengan puertas con el blindaje de mayor nivel del mundo, **
 
 5. Nos sumamos al cuestionamiento iniciado por Juliana, y como ciudadanos esperamos que el software producido con recursos públicos con fines de recaudar información personal de ciudadanos colombianos sea de la más alta calidad.
 6. Basados en los puntos anteriores, recomendamos que el DANE realice una evaluación profesional e independiente de la siguiente manera:
-  1. Se evalúe la implementación de cifrado tanto en la aplicación de escritorio y la web según las recomendaciones de la [OWASP](https://www.owasp.org/index.php/About_The_Open_Web_Application_Security_Project).
-  2. Se realicen pruebas de penetración en todos los sistemas de recolección o almacenamiento de información personal de acuerdo a las recomendaciones de la OWASP. [https://www.owasp.org/index.php/Testing_Guide_Introduction#Penetration_Testing](https://www.owasp.org/index.php/Testing_Guide_Introduction#Penetration_Testing)
-  3. Se implementen todas las recomendaciones consideradas críticas.
-  4. Se publique un reporte con los hallazgos de la evaluación y correcciones, respaldado por la firma evaluadora y de manera pública.
+   1. Se evalúe la implementación de cifrado tanto en la aplicación de escritorio y la web según las recomendaciones de la [OWASP](https://www.owasp.org/index.php/About_The_Open_Web_Application_Security_Project).
+   2. Se realicen pruebas de penetración en todos los sistemas de recolección o almacenamiento de información personal de acuerdo a las recomendaciones de la OWASP. [https://www.owasp.org/index.php/Testing_Guide_Introduction#Penetration_Testing](https://www.owasp.org/index.php/Testing_Guide_Introduction#Penetration_Testing)
+   3. Se implementen todas las recomendaciones consideradas críticas.
+   4. Se publique un reporte con los hallazgos de la evaluación y correcciones, respaldado por la firma evaluadora y de manera pública.
 
 
 Nos reunimos y organizamos para proveer una posición independiente y libre de afiliaciones políticas, con el fin de hacer un llamado a prevenir desastres informáticos que causen perdida en la confianza de soluciones innovadoras en nuestro país.
@@ -156,7 +156,7 @@ Nos reunimos y organizamos para proveer una posición independiente y libre de a
 - Pablo Vallejo - [@PabloVallejo_](https://twitter.com/PabloVallejo_)
 - Juan Pablo Valencia Gómez - [@jpvg10](https://twitter.com/jpvg10)
 - Adrian Estrada - [@edsadr](https://twitter.com/edsadr)Addi
-- Alejo Yarce - [@AlejooYarce](https://twitter.com/AlejooYarce)
+-- Alejo Yarce - [@AlejooYarce](https://twitter.com/AlejooYarce)
 - Fredy E Mena Andrade - [@xfry](https://twitter.com/xfry)
 - Juan David Gómez - [@judavi](https://twitter.com/judavi)
 - Adrian Estrada - [@edsadr](https://twitter.com/edsadr)
@@ -208,3 +208,11 @@ Nos reunimos y organizamos para proveer una posición independiente y libre de a
 - Juan Esteban Arango - [@juanesarango](https://twitter.com/juanesarango)
 - Pedro Sierra - [@peter_sierra](https://twitter.com/peter_sierra)
 - Manuela Castrillon - [@manucastrillonm](https://twitter.com/manucastrillonm)
+- Liz Parody - [@lizparody23](https://twitter.com/lizparody23)
+- Oscar Andrés Úsuga - [@o-andres-u](https://twitter.com/o_andres_u)
+- Hernán Silva - [@hachesilva](https://twitter.com/hachesilva)
+- Sergio Navarrete Suárez - [@sergionsz](https://twitter.com/sergionsz)
+- Guillermo Rodas - [@glrodasz](https://twitter.com/glrodasz)
+- Alejandra Prieto - [@kalejapb](https://twitter.com/kalejapb)
+- Yeisson Rodriguez - [@deltayeisson](https://twitter.com/deltayeisson)
+- Andrés Zorro - [@devtooler](https://twitter.com/devtooler)
