@@ -1,4 +1,4 @@
-# Carta Abierta al DANE
+﻿# Carta Abierta al DANE
 
 Colombia, 19 de Enero de 2018
 
@@ -167,3 +167,4 @@ Nos reunimos y organizamos para proveer una posición independiente y libre de a
 - César Suárez T. [@cesarlarsson](https://twitter.com/cesarlarsson)
 - Edward Alejandro Rayo Cortés - [@earayo0521](https://twitter.com/earayo0521)
 - Alejandro Next - [@alejonext](http://github.com/alejonext/)
+- Alejandro Ramírez - [@soyalejoramirez](https://twitter.com/soyalejoramirez)
