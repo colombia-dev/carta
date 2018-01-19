@@ -145,6 +145,7 @@ Nos reunimos y organizamos para proveer una posición independiente y libre de a
 - Miguel Fernando Cabrera  - [@mfcabrera](https://twitter.com/mfcabrera)
 - Angie Melissa Delgado - [@Meyito_](https://twitter.com/Meyito_)
 - Federico Builes - [@febuiles](https://twitter.com/febuiles)
+- Nicolás Hock Isaza - [@nhocki](https://twitter.com/nhocki)
 - Hildebrando Rueda Quintero - [@theharq](https://twitter.com/theharq)
 - Alejandro Cadavid López - [@acadavid](https://twitter.com/acadavid)
 - Yeison Daza - [@yeion7](https://twitter.com/yeion7)
