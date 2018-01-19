@@ -203,3 +203,4 @@ Nos reunimos y organizamos para proveer una posición independiente y libre de a
 - Ricardo Rojas - [@rodrionrails](https://twitter.com/rodrionrails)
 - Gabriel Garnica - [@antiadherente](https://twitter.com/antiadherente)
 - Carlos Villamizar - [@calvimor_](https://twitter.com/calvimor_)
+- Pedro Sierra - [@peter_sierra](https://twitter.com/peter_sierra)
