@@ -1,4 +1,4 @@
-﻿# Carta Abierta al DANE
+# Carta Abierta al DANE
 
 Colombia, 19 de Enero de 2018
 
@@ -172,6 +172,7 @@ Nos reunimos y organizamos para proveer una posición independiente y libre de a
 - Alejandro Next - [@alejonext](http://github.com/alejonext/)
 - Alejandro Ramírez - [@soyalejoramirez](https://twitter.com/soyalejoramirez)
 - Mario Daniel Ruiz Saavedra - [@desiderantes](https://twitter.com/desiderantes)
+- John Fredy Baquero Celis - [@noverflow](https://twitter.com/noverflow)
 - Ramiro Andrés Bedoya - [@imramiro](https://twitter.com/imramiro)
 - Juan David Maldonado - [@jdmaldonado06](https://twitter.com/jdmaldonado06)
 - Johana S. Rodriguez - [@Joha0](https://github.com/joha0)
