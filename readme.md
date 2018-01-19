@@ -258,3 +258,4 @@ Nos reunimos y organizamos para proveer una posición independiente y libre de a
 - Julian Cardenas Mazo - [@juliankmazo](https://github.com/juliankmazo)
 - Fabián Ríos - [@FabianRiosArias](https://twitter.com/FabianRiosArias)
 - Pablo Ferrer Betancur - [@pferrer23](https://github.com/pferrer23)
+- Cristian Cepeda - [@FollowCristian](https://twitter.com/FollowCristian)
