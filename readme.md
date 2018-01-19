@@ -226,3 +226,4 @@ Nos reunimos y organizamos para proveer una posición independiente y libre de a
 - Julián Alejandro Lamprea - [@jalamprea](https://twitter.com/jalamprea)
 - MiguelAlegria - [@MikelAlegria](https://twitter.com/MikelAlegria)
 - Oscar Alejandro Amado Sarmiento - [@oaamados](https://twitter.com/oaamados)
+- Giovanny Ramirez Blandon [@giovramirez](https://twitter.com/giovramirez)
