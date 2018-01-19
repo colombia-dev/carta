@@ -254,3 +254,4 @@ Nos reunimos y organizamos para proveer una posición independiente y libre de a
 - Juan Felipe Duque García - [@jfduque](https://github.com/jfduque)
 - Manuel Fernando Sabogal Ocampo - [@ItsEdoren](https://twitter.com/ItsEdoren)
 - Juan David Nicholls Cardona - [@jdnichollsc](https://github.com/jdnichollsc)
+- Jorge Leonardo Vernaza Becerra - [@leo0307vb](https://github.com/leo0307vb)
