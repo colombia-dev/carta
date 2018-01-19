@@ -207,3 +207,4 @@ Nos reunimos y organizamos para proveer una posición independiente y libre de a
 - Carlos Villamizar - [@calvimor_](https://twitter.com/calvimor_)
 - Juan Esteban Arango - [@juanesarango](https://twitter.com/juanesarango)
 - Pedro Sierra - [@peter_sierra](https://twitter.com/peter_sierra)
+- Manuela Castrillon - [@manucastrillonm](https://twitter.com/manucastrillonm)
