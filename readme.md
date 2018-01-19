@@ -207,9 +207,9 @@ Nos reunimos y organizamos para proveer una posición independiente y libre de a
 - Carlos Villamizar - [@calvimor_](https://twitter.com/calvimor_)
 - Juan Esteban Arango - [@juanesarango](https://twitter.com/juanesarango)
 - Pedro Sierra - [@peter_sierra](https://twitter.com/peter_sierra)
+- Hernán Silva - [@hachesilva](https://twitter.com/hachesilva)
 - Sergio Navarrete Suárez - [@sergionsz](https://twitter.com/sergionsz)
 - Guillermo Rodas - [@glrodasz](https://twitter.com/glrodasz)
 - Alejandra Prieto - [@kalejapb](https://twitter.com/kalejapb)
 - Yeisson Rodriguez - [@deltayeisson](https://twitter.com/deltayeisson)
 - Andrés Zorro - [@devtooler](https://twitter.com/devtooler)
-
