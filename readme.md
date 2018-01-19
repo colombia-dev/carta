@@ -245,3 +245,4 @@ Nos reunimos y organizamos para proveer una posición independiente y libre de a
 - Jose Rafael Arrieta Dominguez - [@JoseArrieta_82](https://github.com/rafodelmal)
 - Luis Alfredo Porras Páez - [@lporras](https://github.com/lporras)
 - Ivan Dario Villa Ramirez - [@IVilla85](https://twitter.com/IVilla85)
+- Juan Felipe Duque García - [@jfduque](https://github.com/jfduque)
