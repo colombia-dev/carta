@@ -138,6 +138,7 @@ Nos reunimos y organizamos para proveer una posición independiente y libre de a
 - Camilo Aguilar Ramírez - [@c4milo](https://twitter.com/c4milo)
 - Juan Gabriel Gutierrez - [@llanoxco](https://twitter.com/llanoxco)
 - Emmanuel Deossa Hincapié - [@emmanuelsw](https://twitter.com/emmanuelsw)
+- Sebastián Arcila Valenzuela - [@sarcilav](https://twitter.com/sarcilav)
 - Miguel Fernando Cabrera  - [@mfcabrera](https://twitter.com/mfcabrera)
 - Angie Melissa Delgado - [@Meyito_](https://twitter.com/Meyito_)
 - Alejandro Cadavid López - [@acadavid](https://twitter.com/acadavid)
