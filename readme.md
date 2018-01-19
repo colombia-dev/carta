@@ -59,30 +59,30 @@ Nos reunimos y organizamos para proveer una posición independiente y libre de a
 
 **Atentamente:**
 
-- Johann Paul Echavarría - @abrupto
-- Alvaro José Agámez Licha - @codemaxter
+- Johann Paul Echavarría - [@abrupto](https://twitter.com/abrupto)
+- Alvaro José Agámez Licha - [@codemaxter](https://twitter.com/codemaxter)
 - Victor Miguel Rivera Morales
 - Edgar López Rios
-- Andres Vargas -  @RogantCO
-- Juan C. Rodriguez - @jcrodriguezu
-- Maria Paz Muñoz Parra - @pazupersonica
-- Pedro Fernández Moreno - @pedrito
+- Andres Vargas -  [@RogantCO](https://twitter.com/RogantCO)
+- Juan C. Rodriguez - [@jcrodriguezu](https://twitter.com/jcrodriguezu)
+- Maria Paz Muñoz Parra - [@pazupersonica](https://twitter.com/pazupersonica)
+- Pedro Fernández Moreno - [@pedrito](https://twitter.com/pedrito)
 - Leidy Daihana Mora Trujillo
 - Carlos Manuel Vibanco Ospino
 - Mauricio Marin Jimenez
-- Daniel Augusto Amariles García - @danipilze
-- Ismael Ricardo Valencia Q. @ricardovalquin
-- Luis Miguel Jiménez Restrepo - @luismij
+- Daniel Augusto Amariles García - [@danipilze](https://twitter.com/danipilze)
+- Ismael Ricardo Valencia Q. [@ricardovalquin](https://twitter.com/ricardovalquin)
+- Luis Miguel Jiménez Restrepo - [@luismij](https://twitter.com/luismij)
 - Juan Felipe Morales Castellanos
 - Sergio Andres Fandiño Basto
 - Gabriel De Jesus Goethe Mosquera
-- Charly Rafael Palencia Yejas - @_chalien
-- Katy García Bedoya - @kgb369y
+- Charly Rafael Palencia Yejas - [@_chalien](https://twitter.com/_chalien)
+- Katy García Bedoya - [@kgb369y](https://twitter.com/kgb369y)
 - Edgar Duvan Ortega Ramirez
-- Richard David Roncancio Acendra - @Sr_Batusai
+- Richard David Roncancio Acendra - [@Sr_Batusai](https://twitter.com/Sr_Batusai)
 - Diana Cadena Moreno
 - Jorge Alejandro Rios Franco
-- Sorey Bibiana García Zapata - @soreygarcia
+- Sorey Bibiana García Zapata - [@soreygarcia](https://twitter.com/soreygarcia)
 - Daniel García
 - Juan Fernando Gaviria Sánchez
 - Roberto Mario Rueda Quintero
@@ -92,48 +92,48 @@ Nos reunimos y organizamos para proveer una posición independiente y libre de a
 - Johny Alexander Varela Osorio
 - Daniel Felicita
 - David Guzman
-- Cristian Camilo Moreno Zuluaga - @khriztianmoreno
+- Cristian Camilo Moreno Zuluaga - [@khriztianmoreno](https://twitter.com/khriztianmoreno)
 - Andres Felipe Cardona Castro
-- Daniel Felipe Marulanda - @Dfmarulanda
-- Lina Maria Montaño Ramirez - @calypso_bronte
-- Lewis Florez Renza - @gasper_lf
+- Daniel Felipe Marulanda - [@Dfmarulanda](https://twitter.com/Dfmarulanda)
+- Lina Maria Montaño Ramirez - [@calypso_bronte](https://twitter.com/calypso_bronte)
+- Lewis Florez Renza - [@gasper_lf](https://twitter.com/gasper_lf)
 - Jeison Higuita Sanchez
 - Sebastian Castro Paz
-- Germán David Potes Franco - @manchoPotes
+- Germán David Potes Franco - [@manchoPotes](https://twitter.com/manchoPotes)
 - Natalia Díaz Padilla
 - Juan David Gómez Escobar
-- Luis Carlos Rosas Orellano - @LuisRosasO
-- Juan Pablo Giraldo - @qjuanp
-- David Leonardo Nuñez - @dlnunezr
-- Diego Castro - @diarcastro
-- Miguel Hincapié - @miguel_hincapie
+- Luis Carlos Rosas Orellano - [@LuisRosasO](https://twitter.com/LuisRosasO)
+- Juan Pablo Giraldo - [@qjuanp](https://twitter.com/qjuanp)
+- David Leonardo Nuñez - [@dlnunezr](https://twitter.com/dlnunezr)
+- Diego Castro - [@diarcastro](https://twitter.com/diarcastro)
+- Miguel Hincapié - [@miguel_hincapie](https://twitter.com/miguel_hincapie)
 - Ricardo Franco Reyes
-- Daniel Sanchez - @EruJazz
-- Yeiner Fernández Bustos - @yeinerf
-- Elba Patricia Sánchez Márquez - @ElbaSanchezM
-- Jose Miguel García García - @pingoz
+- Daniel Sanchez - [@EruJazz](https://twitter.com/EruJazz)
+- Yeiner Fernández Bustos - [@yeinerf](https://twitter.com/yeinerf)
+- Elba Patricia Sánchez Márquez - [@ElbaSanchezM](https://twitter.com/ElbaSanchezM)
+- Jose Miguel García García - [@pingoz](https://twitter.com/pingoz)
 - Juan Sebastian Velez
-- Juan Felipe Bedoya Cardona - @jfelipebc
-- Manuel Fernando Sabogal Ocampo - @ItsEdoren
+- Juan Felipe Bedoya Cardona - [@jfelipebc](https://twitter.com/jfelipebc)
+- Manuel Fernando Sabogal Ocampo - [@ItsEdoren](https://twitter.com/ItsEdoren)
 - Francisco Arley López Espinosa
 - Sergio Andres Valencia Yepes
-- Andrés Felipe Londoño Mesa - @andreslon
+- Andrés Felipe Londoño Mesa - [@andreslon](https://twitter.com/andreslon)
 - Jose Fabio Jaramillo Castro
-- Laura Ciro - @ltciro
+- Laura Ciro - [@ltciro](https://twitter.com/ltciro)
 - Diego Avila
-- David Przybilla - @dav009
-- Guillermo Daniel Iguaran Suarez - @guilleiguaran
-- Luis Alberto Vélez Tascon - @luchovelez
-- Juan Marín - @jpmarindiaz
+- David Przybilla - [@dav009](https://twitter.com/dav009)
+- Guillermo Daniel Iguaran Suarez - [@guilleiguaran](https://twitter.com/guilleiguaran)
+- Luis Alberto Vélez Tascon - [@luchovelez](https://twitter.com/luchovelez)
+- Juan Marín - [@jpmarindiaz](https://twitter.com/jpmarindiaz)
 - Isabel Cristina Ruiz Buriticá
 - Camilo Alexander Rodríguez
-- Alejandro Villegas Carvajal - @neopilatos
-- Jesse Javier Cogollo - @jessecogollo
-- Ernesto Nobmann Chávez - @nobmann88
-- Sebastian Sogamoso - @sebasoga
-- Juan Pablo Buriticá - @buritica
-- Cristian Andrés Martínez - @b3nkos
-- Hamilton Alvarez Mejia - @mejialvarez
-- Ernesto Nobmann Chávez - @nobmann88
-- Camilo Aguilar Ramírez - @c4milo
-- Juan Gabriel Gutierrez - @llanoxco
+- Alejandro Villegas Carvajal - [@neopilatos](https://twitter.com/neopilatos)
+- Jesse Javier Cogollo - [@jessecogollo](https://twitter.com/jessecogollo)
+- Ernesto Nobmann Chávez - [@nobmann88](https://twitter.com/nobmann88)
+- Sebastian Sogamoso - [@sebasoga](https://twitter.com/sebasoga)
+- Juan Pablo Buriticá - [@buritica](https://twitter.com/buritica)
+- Cristian Andrés Martínez - [@b3nkos](https://twitter.com/b3nkos)
+- Hamilton Alvarez Mejia - [@mejialvarez](https://twitter.com/mejialvarez)
+- Ernesto Nobmann Chávez - [@nobmann88](https://twitter.com/nobmann88)
+- Camilo Aguilar Ramírez - [@c4milo](https://twitter.com/c4milo)
+- Juan Gabriel Gutierrez - [@llanoxco](https://twitter.com/llanoxco)
