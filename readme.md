@@ -8,6 +8,7 @@ Departamento Administrativo Nacional de Estadística - DANE
 E.        S.         D.
 
 **Asunto:** Carta abierta al DANE de grupo de desarrolladores de software Colombianos, a propósito del pronunciamiento de la entidad con respecto a los hallazgos en materia de seguridad en la aplicación del eCenso, realizados por la ingeniera Juliana Peña.
+
 De manera cordial los abajo firmantes, Desarrolladores de Software Colombianos, estamos de acuerdo en expresarles lo siguiente:
 
 
