@@ -269,7 +269,7 @@ Nos reunimos y organizamos para proveer una posición independiente y libre de a
 - Mario Laserna Hernández - [@mario_laserna](https://twitter.com/mario_laserna)
 - José Walter Sierra - [@wisoja](https://twitter.com/wisoja)
 - Cesar David Ramírez - [@cesardramirez](https://github.com/cesardramirez)
-- Cristian Paul Peñaranda Rojas [@kristianpaul0] (https://github.com/kristianpaul)
+- Cristian Paul Peñaranda Rojas - [@kristianpaul0](https://github.com/kristianpaul)
 - Jorge Andrés Ramirez - [@jramirezgranada](https://github.com/jramirezgranada)
 - Wilson Daniel Ospina - [@wdospinal](https://github.com/wdospinal)
 - Stivenson Rincón Mora - [@Stivenson](https://github.com/Stivenson)
