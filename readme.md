@@ -275,3 +275,4 @@ Nos reunimos y organizamos para proveer una posición independiente y libre de a
 - Daniel Vélez Marín - [@Zelev](https://github.com/Zelev)
 - Mike Olivera - [@MikeSoft](https://github.com/MikeSoft)
 - Jose Alvarez - [@soybackend](https://github.com/soybackend)
+- Marcelo César Augusto Torres Ortiz - [@marceloctorres](https://github.com/marceloctorres)
