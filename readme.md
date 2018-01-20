@@ -55,7 +55,7 @@ De nada sirve que se tengan puertas con el blindaje de mayor nivel del mundo, **
    4. Se publique un reporte con los hallazgos de la evaluación y correcciones, respaldado por la firma evaluadora y de manera pública.
 
 
-Nos reunimos y organizamos para proveer una posición independiente y libre de afiliaciones políticas, con el fin de hacer un llamado a prevenir desastres informáticos que causen perdida en la confianza de soluciones innovadoras en nuestro país.
+Nos reunimos y organizamos para proveer una posición independiente y libre de afiliaciones políticas, con el fin de hacer un llamado a prevenir desastres informáticos que causen pérdida en la confianza de soluciones innovadoras en nuestro país.
 
 **Atentamente:**
 
@@ -83,7 +83,7 @@ Nos reunimos y organizamos para proveer una posición independiente y libre de a
 - Diana Cadena Moreno
 - Jorge Alejandro Rios Franco
 - Sorey Bibiana García Zapata - [@soreygarcia](https://twitter.com/soreygarcia)
-- Daniel García
+- Daniel García González - [@dagar_co](https://twitter.com/dagar_co)
 - Juan Fernando Gaviria Sánchez
 - Roberto Mario Rueda Quintero
 - Andrés Ossa Arango
@@ -238,6 +238,7 @@ Nos reunimos y organizamos para proveer una posición independiente y libre de a
 - Fabian Diaz - [@otraarroba](https://twitter.com/otraarroba)
 - Sebastian Romero - [@bipsa](https://twitter.com/bipsa)
 - Luis Emiro Linares García - [@lulingar](https://twitter.com/lulingar)
+- Sebastián Pérez Saaibi - [@spsaaibi](https://twitter.com/spsaaibi)
 - Luis Hurtado - [@kommitter](https://twitter.com/kommitter)
 - Jorge Grajales - [@jag_ing](https://twitter.com/jag_ing)
 - Lennin Suescun Devia - [@Lenninlasd](https://twitter.com/LenninLsd)
@@ -266,3 +267,16 @@ Nos reunimos y organizamos para proveer una posición independiente y libre de a
 - Alejandro Moreno - [@amoreno](https://github.com/alejo-moreno)
 - Kevin Andrés Gómez - [@KevinGomezDev](https://github.com/KevinGomezDev)
 - Cesar David Ramírez - [@cesardramirez](https://github.com/cesardramirez)
+- Cristian Paul Peñaranda Rojas [@kristianpaul0] (https://github.com/kristianpaul)
+- Jorge Andrés Ramirez - [@jramirezgranada](https://github.com/jramirezgranada)
+- Wilson Daniel Ospina - [@wdospinal](https://github.com/wdospinal)
+- Stivenson Rincón Mora - [@Stivenson](https://github.com/Stivenson)
+- David Cardozo - [@davidnet](https://github.com/davidnet)
+- Fernando López - [@Beor18](https://github.com/Beor18)
+- Alejandro Sosa R. - [@AlejandroJSR7](https://github.com/AlejandroJSR7)
+- Miller Danilo Torres Besga - [@miller-danilo](https://github.com/miller-danilo)
+- Juan Camilo Vásquez Correa - [@jcvasquezc](https://github.com/jcvasquezc)
+- Daniel Vélez Marín - [@Zelev](https://github.com/Zelev)
+- Mike Olivera - [@MikeSoft](https://github.com/MikeSoft)
+- Jose Alvarez - [@soybackend](https://github.com/soybackend)
+- Marcelo César Augusto Torres Ortiz - [@marceloctorres](https://github.com/marceloctorres)
