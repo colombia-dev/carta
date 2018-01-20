@@ -282,4 +282,5 @@ Nos reunimos y organizamos para proveer una posición independiente y libre de a
 - Offray Vladimir Luna Cárdenas - [Grafoscopio](http://mutabit.com/grafoscopio/) | [Data Week](http://mutabit.com/dataweek/)
 - Pedro Javier Ortiz Suárez - [@pjox](https://github.com/pjox)
 - Pablo Andrés Dorado Suárez - [@pandres95](https://github.com/pandres95)
+- Mesi Rendon -  [@mesirendon](https://twitter.com/mesirendon)
 - Sebastian Osorio - [@sirgalleto](https://twitter.com/sirgalleto)
