@@ -282,3 +282,4 @@ Nos reunimos y organizamos para proveer una posición independiente y libre de a
 - Mike Olivera - [@MikeSoft](https://github.com/MikeSoft)
 - Jose Alvarez - [@soybackend](https://github.com/soybackend)
 - Marcelo César Augusto Torres Ortiz - [@marceloctorres](https://github.com/marceloctorres)
+- Offray Vladimir Luna Cárdenas - [Grafoscopio](http://mutabit.com/grafoscopio/) | [Data Week](http://mutabit.com/dataweek/)
