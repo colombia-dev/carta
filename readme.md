@@ -238,6 +238,7 @@ Nos reunimos y organizamos para proveer una posición independiente y libre de a
 - Fabian Diaz - [@otraarroba](https://twitter.com/otraarroba)
 - Sebastian Romero - [@bipsa](https://twitter.com/bipsa)
 - Luis Emiro Linares García - [@lulingar](https://twitter.com/lulingar)
+- Sebastián Pérez Saaibi - [@spsaaibi](https://twitter.com/spsaaibi)
 - Luis Hurtado - [@kommitter](https://twitter.com/kommitter)
 - Jorge Grajales - [@jag_ing](https://twitter.com/jag_ing)
 - Lennin Suescun Devia - [@Lenninlasd](https://twitter.com/LenninLsd)
