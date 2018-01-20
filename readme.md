@@ -265,5 +265,6 @@ Nos reunimos y organizamos para proveer una posición independiente y libre de a
 - Omar Leonardo Montoya Cardenas - [@omar_montoya_90](https://twitter.com/omar_montoya_90)
 - Alejandro Moreno - [@amoreno](https://github.com/alejo-moreno)
 - Kevin Andrés Gómez - [@KevinGomezDev](https://github.com/KevinGomezDev)
+- Daniel Vélez Marín - [@Zelev](https://github.com/Zelev)
 - Mike Olivera - [@MikeSoft](https://github.com/MikeSoft)
 - Jose Alvarez - [@soybackend](https://github.com/soybackend)
