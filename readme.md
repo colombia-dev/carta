@@ -55,7 +55,7 @@ De nada sirve que se tengan puertas con el blindaje de mayor nivel del mundo, **
    4. Se publique un reporte con los hallazgos de la evaluación y correcciones, respaldado por la firma evaluadora y de manera pública.
 
 
-Nos reunimos y organizamos para proveer una posición independiente y libre de afiliaciones políticas, con el fin de hacer un llamado a prevenir desastres informáticos que causen perdida en la confianza de soluciones innovadoras en nuestro país.
+Nos reunimos y organizamos para proveer una posición independiente y libre de afiliaciones políticas, con el fin de hacer un llamado a prevenir desastres informáticos que causen pérdida en la confianza de soluciones innovadoras en nuestro país.
 
 **Atentamente:**
 
