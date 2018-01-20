@@ -266,6 +266,7 @@ Nos reunimos y organizamos para proveer una posición independiente y libre de a
 - Omar Leonardo Montoya Cardenas - [@omar_montoya_90](https://twitter.com/omar_montoya_90)
 - Alejandro Moreno - [@amoreno](https://github.com/alejo-moreno)
 - Kevin Andrés Gómez - [@KevinGomezDev](https://github.com/KevinGomezDev)
+- Fernando López - [@Beor18](https://github.com/Beor18)
 - Alejandro Sosa R. - [@AlejandroJSR7](https://github.com/AlejandroJSR7)
 - Miller Danilo Torres Besga - [@miller-danilo](https://github.com/miller-danilo)
 - Juan Camilo Vásquez Correa - [@jcvasquezc](https://github.com/jcvasquezc)
