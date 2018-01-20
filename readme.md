@@ -8,6 +8,7 @@ Departamento Administrativo Nacional de Estadística - DANE
 E.        S.         D.
 
 **Asunto:** Carta abierta al DANE de grupo de desarrolladores de software Colombianos, a propósito del pronunciamiento de la entidad con respecto a los hallazgos en materia de seguridad en la aplicación del eCenso, realizados por la ingeniera Juliana Peña.
+
 De manera cordial los abajo firmantes, Desarrolladores de Software Colombianos, estamos de acuerdo en expresarles lo siguiente:
 
 
@@ -278,5 +279,6 @@ Nos reunimos y organizamos para proveer una posición independiente y libre de a
 - Mike Olivera - [@MikeSoft](https://github.com/MikeSoft)
 - Jose Alvarez - [@soybackend](https://github.com/soybackend)
 - Marcelo César Augusto Torres Ortiz - [@marceloctorres](https://github.com/marceloctorres)
+- Offray Vladimir Luna Cárdenas - [Grafoscopio](http://mutabit.com/grafoscopio/) | [Data Week](http://mutabit.com/dataweek/)
 - Pedro Javier Ortiz Suárez - [@pjox](https://github.com/pjox)
 - Pablo Andrés Dorado Suárez - [@pandres95](https://github.com/pandres95)
