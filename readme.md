@@ -83,7 +83,7 @@ Nos reunimos y organizamos para proveer una posición independiente y libre de a
 - Diana Cadena Moreno
 - Jorge Alejandro Rios Franco
 - Sorey Bibiana García Zapata - [@soreygarcia](https://twitter.com/soreygarcia)
-- Daniel García
+- Daniel García González - [@dagar_co](https://twitter.com/dagar_co)
 - Juan Fernando Gaviria Sánchez
 - Roberto Mario Rueda Quintero
 - Andrés Ossa Arango
