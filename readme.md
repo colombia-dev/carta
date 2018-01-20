@@ -279,3 +279,4 @@ Nos reunimos y organizamos para proveer una posición independiente y libre de a
 - Jose Alvarez - [@soybackend](https://github.com/soybackend)
 - Marcelo César Augusto Torres Ortiz - [@marceloctorres](https://github.com/marceloctorres)
 - Pedro Javier Ortiz Suárez - [@pjox](https://github.com/pjox)
+- Pablo Andrés Dorado Suárez - [@pandres95](https://github.com/pandres95)
