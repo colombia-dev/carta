@@ -265,3 +265,4 @@ Nos reunimos y organizamos para proveer una posición independiente y libre de a
 - Omar Leonardo Montoya Cardenas - [@omar_montoya_90](https://twitter.com/omar_montoya_90)
 - Alejandro Moreno - [@amoreno](https://github.com/alejo-moreno)
 - Kevin Andrés Gómez - [@KevinGomezDev](https://github.com/KevinGomezDev)
+- Cristian Paul Peñaranda Rojas [@kristianpaul0] (https://github.com/kristianpaul)
