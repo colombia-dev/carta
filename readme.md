@@ -265,6 +265,8 @@ Nos reunimos y organizamos para proveer una posición independiente y libre de a
 - Giovanny Gongora - [@Gioyik](https://twitter.com/Gioyik)
 - Omar Leonardo Montoya Cardenas - [@omar_montoya_90](https://twitter.com/omar_montoya_90)
 - Alejandro Moreno - [@amoreno](https://github.com/alejo-moreno)
+- Wilson Daniel Ospina - [@wdospinal](https://github.com/wdospinal)
+- Kevin Andrés Gómez - [@KevinGomezDev](https://github.com/KevinGomezDev)
 - Kevin Andrés Gómez - [@KevinGomezDev](https://github.com/KevinGomezDev)
 - Stivenson Rincón Mora - [@Stivenson](https://github.com/Stivenson)
 - David Cardozo - [@davidnet](https://github.com/davidnet)
