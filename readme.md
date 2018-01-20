@@ -285,3 +285,4 @@ Nos reunimos y organizamos para proveer una posición independiente y libre de a
 - Daniel Aranda - [@dwarandae](https://twitter.com/dwarandae)
 - Mesi Rendon -  [@mesirendon](https://twitter.com/mesirendon)
 - Sebastian Osorio - [@sirgalleto](https://twitter.com/sirgalleto)
+- Gerson Yesid Lázaro - [@GersonLazaroC](https://twitter.com/GersonLazaroC)
