@@ -15,7 +15,7 @@ De manera cordial los abajo firmantes, Desarrolladores de Software Colombianos, 
 1. Apoyamos que el DANE haya construido una opción para realizar el censo de forma virtual.
 2. Rechazamos cadenas malintencionadas y anónimas que sugieren que hay intento de fraude electoral y que parecen promovidas por sectores políticos especialistas en propaganda negra. En esto también apoyamos al DANE.
 3. Aplaudimos la valentía, generosidad y deber cívico con los cuales la desarrolladora de software Juliana Peña publicó sus hallazgos de seguridad. [http://julip.co/2018/01/actualizacion-contrasenas-censo/](http://julip.co/2018/01/actualizacion-contrasenas-censo/)
-4. Como profesionales de la industria de Software, rechazamos la posición del DANE en cuanto a los reportes de Juliana. Consideramos que las preguntas de Juliana son válidas y el comunicado de prensa no las responde de manera adecuada, por lo que aún cuestionamos la seguridad del eCenso web y *offline*.
+4. Como profesionales de la industria de Software, rechazamos la posición del DANE en cuanto a los reportes de Juliana. Consideramos que las preguntas de Juliana son válidas y el comunicado de prensa no las responde de manera adecuada, por lo que aún cuestionamos la seguridad del eCenso web y su version *offline*.
 
 [https://censo2018.dane.gov.co/el-dane-responde-afirmaciones-falsas-sobre-la-seguridad-del-ecenso](https://censo2018.dane.gov.co/el-dane-responde-afirmaciones-falsas-sobre-la-seguridad-del-ecenso)
 
@@ -36,16 +36,16 @@ Argumentando:
 
 Sin mencionar que se permitía descargar una versión del código del sitio, en la opción para diligenciar el censo de forma offline. En el código (Juliana lo explicó y nosotros pudimos comprobarlo) se hace un “cifrado simétrico” conocido por ser inadecuado e inseguro para el cifrado de contraseñas, adicionalmente en el mismo código se incluye la llave que puede ser usada para descifrar las contraseñas.
 
-Ella también aporta como evidencia el hecho de que es exactamente igual al publicado en el sitio [https://stackoverflow.com/](https://stackoverflow.com/questions/1289061#4875807) (red social para compartir y discutir código), que explícitamente indica que aunque funciona, no es seguro.
+Ella también aporta como evidencia el hecho de que el codigo usado para cifrar y descifrar las contraseñas es exactamente igual al publicado en el sitio [https://stackoverflow.com/](https://stackoverflow.com/questions/1289061#4875807) (red social para compartir y discutir código), que explícitamente indica que aunque funciona, no es seguro.
 
-El sólo hecho de que declaren usar "mecanismos de encriptación" avalados, no garantiza su buen uso. Lo que se cuestiona no es la herramienta sino su aplicación y la consideración por las buenas prácticas de ingeniería.
+El sólo hecho de que declaren usar "mecanismos de encriptación" avalados, no garantiza su correcta implementación. Lo que se cuestiona no es la herramienta sino su aplicación y la consideración por las buenas prácticas de ingeniería.
 
 Queremos señalar que tampoco es válido el siguiente argumento, donde también se afirma que Juliana “falta a la verdad”:
 
 
   *“Entre los mecanismos de seguridad implementados por el DANE para mitigar intentos de accesos no permitidos y minimizar el riesgo de presencia de incidentes que puedan afectar la seguridad de la información almacenada en las bases de datos institucionales, se cuenta con soluciones de protección tales como cortafuegos y sistemas de detección y prevención de intrusos (definidos de manera perimetral), así como con la protección a nivel de aplicación a través de un cortafuego web”*
 
-De nada sirve que se tengan puertas con el blindaje de mayor nivel del mundo, ***si dejas la llave de la puerta debajo de la alfombra de bienvenida***. En este caso, permitir la descarga de una versión del código del servidor como opción de diligenciado *offline*, es un serio problema de seguridad que pone en peligro la información y las contraseñas de quienes hayan diligenciado el censo de forma virtual.
+De nada sirve que se tengan puertas con el blindaje de mayor nivel del mundo, ***si dejas la llave de la puerta debajo de la alfombra de bienvenida***. En este caso, permitir la descarga de una versión del código del servidor como opción de diligenciado *offline*, es un serio problema de seguridad que pone en riesgo la información y las contraseñas de quienes hayan diligenciado el censo de forma virtual.
 
 
 5. Nos sumamos al cuestionamiento iniciado por Juliana, y como ciudadanos esperamos que el software producido con recursos públicos con fines de recaudar información personal de ciudadanos colombianos sea de la más alta calidad.
