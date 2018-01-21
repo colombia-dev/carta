@@ -287,3 +287,4 @@ Nos reunimos y organizamos para proveer una posición independiente y libre de a
 - Sebastian Osorio - [@sirgalleto](https://twitter.com/sirgalleto)
 - Gerson Yesid Lázaro - [@GersonLazaroC](https://twitter.com/GersonLazaroC)
 - Juan Camilo Caviedes [@jcamilo97](https://github.com/jcamilo97)
+- Andrés Felipe Alzate Alvarez - [@aalzatea](https://twitter.com/aalzatea)
