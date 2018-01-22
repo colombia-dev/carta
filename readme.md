@@ -293,3 +293,4 @@ Nos reunimos y organizamos para proveer una posición independiente y libre de a
 - Adolfo Builes - [@abuiles](https://twitter.com/abuiles)          
 - Andres Carreño - [@andrscrrn](https://github.com/andrscrrn)
 - Juan Carlos González - [@jcgonzave](https://twitter.com/jcgonzave)
+- Carlos Suárez - [@psauxf](https://twitter.com/psauxf)
