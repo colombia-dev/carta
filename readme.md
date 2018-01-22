@@ -286,5 +286,6 @@ Nos reunimos y organizamos para proveer una posición independiente y libre de a
 - Mesi Rendon -  [@mesirendon](https://twitter.com/mesirendon)
 - Sebastian Osorio - [@sirgalleto](https://twitter.com/sirgalleto)
 - Gerson Yesid Lázaro - [@GersonLazaroC](https://twitter.com/GersonLazaroC)
-- Juan Camilo Caviedes [@jcamilo97](https://github.com/jcamilo97)
+- Juan Camilo Caviedes - [@jcamilo97](https://github.com/jcamilo97)
+- Camilo Bernal - [@camilobernal](https://github.com/camilobernal)
 - Andrés Felipe Alzate Alvarez - [@aalzatea](https://twitter.com/aalzatea)
