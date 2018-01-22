@@ -242,7 +242,6 @@ Nos reunimos y organizamos para proveer una posición independiente y libre de a
 - Lennin Suescun Devia - [@Lenninlasd](https://twitter.com/LenninLsd)
 - Jose Gabriel guzman lopez - [@joseGabriel06](https://github.com/joseGabriel06)
 - Juan David Echeverry Rivera - [@juandav](https://github.com/juandav)
-
 - Jose Rafael Arrieta Dominguez - [@JoseArrieta_82](https://github.com/rafodelmal)
 - Luis Alfredo Porras Páez - [@lporras](https://github.com/lporras)
 - Edward Monsalve Castrillon - [@EdwardMCas](https://twitter.com/EdwardMCas)
@@ -297,4 +296,5 @@ Nos reunimos y organizamos para proveer una posición independiente y libre de a
 - Carlos Suárez - [@psauxf](https://twitter.com/psauxf)
 - Jorge Luis Ávila García - [@9javi4](https://twitter.com/9javi4)
 - Juan Nicolas Lopez Velasquez - [@onel0p3z](https://twitter.com/onel0p3z)
+- Jairo Alfonso Silva Franco - [@jsilvafranco](https://twitter.com/jsilvafranco)
 - Sebastian Felipe Alvarado Prieto - [@SebastianPrieto](https://github.com/SebastianPrieto)
