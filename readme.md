@@ -299,3 +299,4 @@ Nos reunimos y organizamos para proveer una posición independiente y libre de a
 - Jairo Alfonso Silva Franco - [@jsilvafranco](https://twitter.com/jsilvafranco)
 - Sebastian Felipe Alvarado Prieto - [@SebastianPrieto](https://github.com/SebastianPrieto)
 - Robin Hurtado Abadia - [@robinHurtado](https://github.com/robinHurtado)
+- Jaime Alberto Giraldo Jiménez - [@sposmen](https://github.com/sposmen)
