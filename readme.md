@@ -295,3 +295,4 @@ Nos reunimos y organizamos para proveer una posición independiente y libre de a
 - Juan Carlos González - [@jcgonzave](https://twitter.com/jcgonzave)
 - Carlos Suárez - [@psauxf](https://twitter.com/psauxf)
 - Jorge Luis Ávila García - [@9javi4](https://twitter.com/9javi4)
+- Juan Nicolas Lopez Velasquez - [@onel0p3z](https://twitter.com/onel0p3z)
