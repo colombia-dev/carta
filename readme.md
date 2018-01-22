@@ -294,3 +294,4 @@ Nos reunimos y organizamos para proveer una posición independiente y libre de a
 - Andres Carreño - [@andrscrrn](https://github.com/andrscrrn)
 - Juan Carlos González - [@jcgonzave](https://twitter.com/jcgonzave)
 - Carlos Suárez - [@psauxf](https://twitter.com/psauxf)
+- Jorge Luis Ávila García - [@9javi4](https://twitter.com/9javi4)
