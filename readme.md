@@ -1,4 +1,4 @@
-# Carta Abierta al DANE
+﻿# Carta Abierta al DANE
 
 Colombia, 19 de Enero de 2018
 
@@ -291,3 +291,5 @@ Nos reunimos y organizamos para proveer una posición independiente y libre de a
 - Andrés Felipe Alzate Alvarez - [@aalzatea](https://twitter.com/aalzatea)
 - Fabian Marin - [@fabian_guitar](https://twitter.com/fabian_guitar)
 - Adolfo Builes - [@abuiles](https://twitter.com/abuiles)          
+- Andres Carreño - [@andrscrrn](https://github.com/andrscrrn)
+- Juan Carlos González - [@jcgonzave](https://twitter.com/jcgonzave)
