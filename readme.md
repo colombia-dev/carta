@@ -297,3 +297,4 @@ Nos reunimos y organizamos para proveer una posición independiente y libre de a
 - Jorge Luis Ávila García - [@9javi4](https://twitter.com/9javi4)
 - Juan Nicolas Lopez Velasquez - [@onel0p3z](https://twitter.com/onel0p3z)
 - Jairo Alfonso Silva Franco - [@jsilvafranco](https://twitter.com/jsilvafranco)
+- Sebastian Felipe Alvarado Prieto - [@SebastianPrieto](https://github.com/SebastianPrieto)
