@@ -300,3 +300,4 @@ Nos reunimos y organizamos para proveer una posición independiente y libre de a
 - Sebastian Felipe Alvarado Prieto - [@SebastianPrieto](https://github.com/SebastianPrieto)
 - Robin Hurtado Abadia - [@robinHurtado](https://github.com/robinHurtado)
 - Jaime Alberto Giraldo Jiménez - [@sposmen](https://github.com/sposmen)
+- Gustavo Toro - [@gtoroap](https://twitter.com/gtoroap)
