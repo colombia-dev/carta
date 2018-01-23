@@ -302,3 +302,4 @@ Nos reunimos y organizamos para proveer una posición independiente y libre de a
 - Jaime Alberto Giraldo Jiménez - [@sposmen](https://github.com/sposmen)
 - Gustavo Toro - [@gtoroap](https://twitter.com/gtoroap)
 - Guille Valencia - [@UX-Code](https://twitter.com/ux-code)
+- Milton Jesús Vera Contreras - [@miljeveco](https://twitter.com/miljeveco)
