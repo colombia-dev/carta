@@ -303,4 +303,5 @@ Nos reunimos y organizamos para proveer una posición independiente y libre de a
 - Gustavo Toro - [@gtoroap](https://twitter.com/gtoroap)
 - Guille Valencia - [@UX-Code](https://twitter.com/ux-code)
 - Milton Jesús Vera Contreras - [@miljeveco](https://twitter.com/miljeveco)
+- Giovanny Beltrán - [@agar3s](https://twitter.com/agar3s)
 - Stella Maria Miranda Garcia - [@fashionate](https://twitter.com/fashionate)
