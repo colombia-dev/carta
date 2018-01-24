@@ -305,3 +305,4 @@ Nos reunimos y organizamos para proveer una posición independiente y libre de a
 - Milton Jesús Vera Contreras - [@miljeveco](https://twitter.com/miljeveco)
 - Giovanny Beltrán - [@agar3s](https://twitter.com/agar3s)
 - Stella Maria Miranda Garcia - [@fashionate](https://twitter.com/fashionate)
+- Jobelo Andrés Quintero Rodríguez - [@ignusmart](https://github.com/ignusmart)
