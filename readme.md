@@ -309,3 +309,4 @@ Nos reunimos y organizamos para proveer una posición independiente y libre de a
 - Juan Guillermo Murillo Castillo - [@juangmurillo2](https://twitter.com/juangmurillo2)
 - Maria Camila Remolina Gutierrez - [@mariacamilaremolinagutierrez](https://github.com/mariacamilaremolinagutierrez)
 - Jeny Alejandra Mazo Mazo - [@jenymzo](https://github.com/jenymzo)
+- Rigoberto Bermudez Castro - [@rigobcastro](https://github.com/rigobcastro)
