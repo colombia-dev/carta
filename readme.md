@@ -308,3 +308,4 @@ Nos reunimos y organizamos para proveer una posición independiente y libre de a
 - Jobelo Andrés Quintero Rodríguez - [@ignusmart](https://github.com/ignusmart)
 - Juan Guillermo Murillo Castillo - [@juangmurillo2](https://twitter.com/juangmurillo2)
 - Maria Camila Remolina Gutierrez - [@mariacamilaremolinagutierrez](https://github.com/mariacamilaremolinagutierrez)
+- Jeny Alejandra Mazo Mazo - [@jenymzo](https://github.com/jenymzo)
